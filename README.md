@@ -41,14 +41,14 @@ This mod was designed with "All Doors" in mind, but for users who don't need thi
   - 22 Magnets, 220mm VHB tape
 
 ## "Voron Spec" BOM:
-- **188x** *6x3mm Disc Magnets (Grade n52 Recommended)*
+- **188x** - *6x3mm Disc Magnets (Grade n52 Recommended)*
   - [Source: West3d](https://west3d.com/products/6mm-x-3mm-round-neomydium-magnets)
-- **71x** *M3x8mm SHCS Screws*
-- **63x** *Hammerhead, T-Nut or Springnut*
-- **8x** *T-Nut (This is in addition to above)*
-- **Approx. 1.8 Meters / 5.9 Feet** *0.4 Inch VHB Tape*
+- **71x** - *M3x8mm SHCS Screws*
+- **63x** - *Hammerhead, T-Nut or Springnut*
+- **8x** - *T-Nut (This is in addition to above)*
+- **Approx. 1.8 Meters / 5.9 Feet** - *0.4 Inch VHB Tape*
   - [Source: Lifetime Supply off Amazon](https://www.amazon.com/gp/product/B0CLV11RT9/)
-- **Approx. 10 Meters / 33 Feet** *9mm/8mm Weatherseal*
+- **Approx. 10 Meters / 33 Feet** - *9mm/8mm Weatherseal*
   - [Source: Local Source in U.S, Home Depot](https://www.homedepot.com/p/M-D-Building-Products-17-ft-Black-Small-Rubber-Auto-Marine-Weatherseal-for-All-Climates-01025/202066509) - 2 Packages
 
 ### Per STL breakdown:
