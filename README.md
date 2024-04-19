@@ -118,13 +118,40 @@ Don't skimp on the VHB tape! When installed, press down extremely hard on the pa
 <INCOMPLETE DOCS BELOW>
 
 # Installation:
-Refer to the following images for clip placement on the various panels
-<incomplete>
+Refer to the following images for clip placement on the various panels. Apply significant pressure to the tape to ensure it sticks. In my experience, the VHB tape may be a bit weak the first few days but should all hold together just fine.
+
+- corner_clip_panel.stl are placed in the 4 corners.
+- side_clip_panel.stl are placed on 3 of the 4 sides in the center.
+- hinge_panel.stl are placed 10cm from the edge of the panel on one side. 
+
+**Images here**
+
+When installing the frame STLs, install them loose initially (just tight enough they don't fall out), you'll use the panels themselves to align the frame STLs in a future step. Please them in the same locations as the panel clips, just on the frame.
+
+- corner_clip_panel.stl are placed in the 4 corners.
+- side_clip_panel.stl are placed on 3 of the 4 sides in the center.
+- hinge_panel.stl are placed 10cm from the edge of the panel on one side. 
 
 Refer to the following images for frame placement on the various extrusions:
-<incomplete>
+**Images here**
 
+The weatherseal is placed on last, if want the weatherseal placed flush along the inner side of the extrusion. If you purchased the same brand I did, many times the adhesive isn't aligned, use this to your advantage so you don't have any exposed adhesive.
 
+**Images here**
+
+Once the weather seal is in place, attach the doors to the extrusions, at this step only the 4 corners need to actually attach.
+
+Slide/place the side_clip_frame.stl and hinge_frame.stl parts under their respective _panel. You may have to loosen them if you used hammerheads.
+
+With the panel installed and attached to the magnets, tighten the _frame.stl parts **through** the _panel.stls with the guideholes provided. Use your hands to hold the _frame.stl and _panel.stl flush with eachother while tightening for better alignment.
+
+**Image Here**
+
+Install the T-Nuts for the hinges and slide them under hinge_frame.stl
+
+**Image Here**
+
+Done?
 
 
 # Optional
