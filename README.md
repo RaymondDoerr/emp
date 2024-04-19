@@ -80,28 +80,28 @@ All prints are designed to print to Voron Spec profiles. If you have warping iss
 
 ## For "All Doors":
 ### Print with top/vertical hole size:
-- [a]hinge_frame_<SIZE>.stl                 - 12ea
-- hinge_panel_<SIZE>.stl                    - 12ea
+- **12x** [a]hinge_frame_<SIZE>.stl
+- **12x** hinge_panel_<SIZE>.stl
 
 ### Print with bottom/horizontal hole size:
-- [a]corner_clip_frame_<SIZE>.stl           - 20ea
-- [a]side_clip_frame_<SIZE>.stl             - 15ea
-- door_clip_1_<SIZE>.stl                    - 2ea
-- door_clip_2_<SIZE>.stl                    - 2ea
-- corner_clip_panel_<SIZE>.stl              - 20ea
-- side_clip_panel_<SIZE>.stl                - 11ea
+- **20x** [a]corner_clip_frame_<SIZE>.stl
+- **15x** [a]side_clip_frame_<SIZE>.stl
+- **2x** door_clip_1_<SIZE>.stl
+- **2x** door_clip_2_<SIZE>.stl
+- **20x** corner_clip_panel_<SIZE>.stl
+- **11x** side_clip_panel_<SIZE>.stl
 
 ## For "Voron Spec":
 ### Print with top/vertical hole size:
-- [a]hinge_frame_<SIZE>.stl                   - 4ea
-- hinge_panel_<SIZE>.stl                      - 4ea
+- **4x** [a]hinge_frame_<SIZE>.stl
+- **4x** hinge_panel_<SIZE>.stl
 
 ### Print with bottom/horizontal hole size:
-- [a]corner_clip_frame_<SIZE>.stl           - 20ea
-- [a]side_clip_frame_<SIZE>.stl             - 19ea
-- door_clip_1_<SIZE>.stl                    - 2ea
-- door_clip_2_<SIZE>.stl                    - 2ea
-- corner_clip_panel_<SIZE>.stl              - 20ea
-- side_clip_panel_<SIZE>.stl                - 15ea
+- **20x** [a]corner_clip_frame_<SIZE>.stl
+- **19x** [a]side_clip_frame_<SIZE>.stl
+- **2x** door_clip_1_<SIZE>.stl
+- **2x** door_clip_2_<SIZE>.stl
+- **20x** corner_clip_panel_<SIZE>.stl
+- **15x** side_clip_panel_<SIZE>.stl
 
 # Assembly:
