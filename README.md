@@ -12,11 +12,14 @@ This is the intended original design. Requires more magnets and hardware, but al
 ### "Voron Spec"
 Exactly the same configuration as standard Voron panels, except with all the benefits of the magnet panels and hinges. This mod was designed with "All Doors" in mind, but for users who don't need this functionality, using the "Voron Spec" configuration will save you a ton of hardware and simplify installation.
 
+# BOMs and Tool Lists:
+
 ## Tools:
 - **Small Hammer** for tapping magnets gently into place. Doesn't even have to be a hammer, you should not need much force at all. A rubber mallet also works well.
-- **1x m3x14 SHCS or similar length screw** to use with the hammer. You just need an m3 SHCS long enough you can hold it with your fingers while you use the hammer.
-- **Flat, solid surface** for hammering
-- **Appropriate Hex Key for your m3x8 screws.**
+- **1x m3x20 SHCS or similar length screw** to use with the hammer. You just need an m3 SHCS long enough you can hold it with your fingers while you use the hammer.
+- **Flat, solid surface** for hammering.
+- **2.5mm Hex Key for your m3x8 screws.**
+- **Metric Ruler** at least 10cm long. (Calipers, measuring tape, etc, also work fine.)
 - **Fingers**
 - **Scissors** for the VHB tape. You'll want nice, sharp and clean ones.
 - **A few seasons of The Office** (Can supplement with your show of choice) while assembling the hardware prior to installation.
