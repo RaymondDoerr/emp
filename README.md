@@ -46,13 +46,10 @@ This mod was designed with "All Doors" in mind, but for users who don't need thi
 - **71x** *M3x8mm SHCS Screws*
 - **63x** *Hammerhead, T-Nut or Springnut*
 - **8x** *T-Nut (This is in addition to above)*
-  
-- 0.4 Inch VHB Tape
-  - Approx. 1.8 Meters / 5.9 Feet
-    - [Source: Lifetime Supply off Amazon](https://www.amazon.com/gp/product/B0CLV11RT9/)
-- 9mm/8mm Weatherseal
-  - Approx. 10 Meters / 33 Feet
-    - [Source: Local Source in U.S, Home Depot](https://www.homedepot.com/p/M-D-Building-Products-17-ft-Black-Small-Rubber-Auto-Marine-Weatherseal-for-All-Climates-01025/202066509) - 2 Packages
+- **Approx. 1.8 Meters / 5.9 Feet** *0.4 Inch VHB Tape*
+  - [Source: Lifetime Supply off Amazon](https://www.amazon.com/gp/product/B0CLV11RT9/)
+- **Approx. 10 Meters / 33 Feet** *9mm/8mm Weatherseal*
+  - [Source: Local Source in U.S, Home Depot](https://www.homedepot.com/p/M-D-Building-Products-17-ft-Black-Small-Rubber-Auto-Marine-Weatherseal-for-All-Climates-01025/202066509) - 2 Packages
 
 ### Per STL breakdown:
 - [a]hinge_frame_<SIZE>.stl                 - 16 Magnets, 12 Screws, 4 Hammerhead, 8 T-nuts
