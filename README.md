@@ -9,9 +9,7 @@ There are 2 variants of this panel mod:
 This is the intended original design. Requires more magnets and hardware, but allows you to open every single panel on your Voron (including the back and top!) like a hinged door or just yank them all off with no hardware.
 
 ### "Voron Spec"
-Exactly the same configuration as standard Voron panels, except all magnetic and removable without hardware, with the new seal.
-
-This mod was designed with "All Doors" in mind, but for users who don't need this functionality, using the "Voron Spec" configuration will save you a ton of hardware and simplify installation.
+Exactly the same configuration as standard Voron panels, except with all the benefits of the magnet panels and hinges. This mod was designed with "All Doors" in mind, but for users who don't need this functionality, using the "Voron Spec" configuration will save you a ton of hardware and simplify installation.
 
 ## "All Doors" BOM:
 - **236x** - *6x3mm Disc Magnets (Grade n52 Recommended)*
@@ -36,14 +34,22 @@ This mod was designed with "All Doors" in mind, but for users who don't need thi
   - [U.S. Source: Home Depot](https://www.homedepot.com/p/M-D-Building-Products-17-ft-Black-Small-Rubber-Auto-Marine-Weatherseal-for-All-Climates-01025/202066509) - 2 Packages
 
 ## Per STL BOM (Ref. Full Part Descriptions Above):
-- [a]hinge_frame_<SIZE>.stl                 - 4 Magnets, 3 Screws, 1 Hammerhead, 2 T-nuts
-- [a]corner_clip_frame_<SIZE>.stl           - 2 Magnets, 2 Screws, 2 Hammerheads
-- [a]side_clip_frame_<SIZE>.stl             - 2 Magnets, 1 Screw, 1 Hammerhead
-- hinge_panel_<SIZE>.stl                    - 4 Magnets, 40mm VHB tape
-- door_clip_1_<SIZE>.stl                    - 2 Magnets, 20mm VHB tape
-- door_clip_2_<SIZE>.stl                    - 2 Magnets, 20mm VHB tape
-- corner_clip_panel_<SIZE>.stl              - 2 Magnets, 60mm VHB tape
-- side_clip_panel_<SIZE>.stl                - 2 Magnets, 20mm VHB tape
+- *[a]hinge_frame_<SIZE>.stl*
+  - **4 Magnets, 3 Screws, 1 Hammerhead, 2 T-nuts**
+- *[a]corner_clip_frame_<SIZE>.stl*
+  - **2 Magnets, 2 Screws, 2 Hammerheads**
+- *[a]side_clip_frame_<SIZE>.stl*
+  - **2 Magnets, 1 Screw, 1 Hammerhead**
+- *hinge_panel_<SIZE>.stl*
+  - **4 Magnets, 40mm VHB tape**
+- *door_clip_1_<SIZE>.stl*
+  - **2 Magnets, 20mm VHB tape**
+- *door_clip_2_<SIZE>.stl*
+  - **2 Magnets, 20mm VHB tape**
+- *corner_clip_panel_<SIZE>.stl*
+  - **2 Magnets, 60mm VHB tape**
+- *side_clip_panel_<SIZE>.stl*
+  - **2 Magnets, 20mm VHB tape**
 
 # The Magnet Tolerance Test:
 ## (Don't skip!!)
