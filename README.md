@@ -1,4 +1,5 @@
 # **EMP - The Excessively Magnetic Panel Mod**
+# **<WARNING: INCOMPLETE DOCS BELOW>**
 
 ## Description:
 This mod converts every panel on the Voron to a well sealed, removable magnet doors with magnetic hinges. All panels function as doors and are removable with no hardware what so ever, just yank 'em out!
@@ -15,8 +16,8 @@ Exactly the same configuration as standard Voron panels, except with all the ben
 - **236x** - *6x3mm Disc Magnets (Grade n52 Recommended)*
   - [Source: West3d](https://west3d.com/products/6mm-x-3mm-round-neomydium-magnets)
 - **91x** - *M3x8mm SHCS Screws*
-- **67x** - *Hammerhead, T-Nut or Springnut*
-- **24x** - *T-Nut (This is in addition to above)*
+- **67x** - *Hammerheads, T-Nuts or Springnuts*
+- **24x** - *T-Nuts (This is in addition to above)*
 - **Approx. 2 Meters / 6.7 Feet** - *0.4 Inch VHB Tape*
   - [Source: Lifetime Supply off Amazon](https://www.amazon.com/gp/product/B0CLV11RT9/)
 - **Approx. 10 Meters / 33 Feet** - *9mm/8mm Weatherseal*
@@ -26,8 +27,8 @@ Exactly the same configuration as standard Voron panels, except with all the ben
 - **188x** - *6x3mm Disc Magnets (Grade n52 Recommended)*
   - [Source: West3d](https://west3d.com/products/6mm-x-3mm-round-neomydium-magnets)
 - **71x** - *M3x8mm SHCS Screws*
-- **63x** - *Hammerhead, T-Nut or Springnut*
-- **8x** - *T-Nut (This is in addition to above)*
+- **63x** - *Hammerheads, T-Nuts or Springnuts*
+- **8x** - *T-Nuts (This is in addition to above)*
 - **Approx. 1.8 Meters / 5.9 Feet** - *0.4 Inch VHB Tape*
   - [Source: Lifetime Supply off Amazon](https://www.amazon.com/gp/product/B0CLV11RT9/)
 - **Approx. 10 Meters / 33 Feet** - *9mm/8mm Weatherseal*
@@ -114,14 +115,35 @@ Don't skimp on the VHB tape! When installed, press down extremely hard on the pa
 
 ![Magnet Test](Images/VHB-Tape.png)
 
+<INCOMPLETE DOCS BELOW>
+
+# Installation:
+Refer to the following images for clip placement on the various panels
+<incomplete>
+
+Refer to the following images for frame placement on the various extrusions:
+<incomplete>
+
+
+
+
 # Optional
 - All _panel STL files, except the hinges, can have an additional magnet added if you want to go overkill with magnet strength. Note that this will add an enormous amount of extra magnets (Roughly 25-30% more) to the BOM.
 
-# Coming Soon (before full release, hopefully)
+# Coming Soon (Before full release)
 - A magnetic door handle of some sort.
 - Small magnetic arms to prop doors open.
 
-# Ignore below this line.
+
+
+
+
+
+
+
+
+
+# Ignore below this line, I'm just too lazy to put notes anywhere else at the moment..
 
 ### Per STL breakdown for All Doors:
 - [a]hinge_frame_<SIZE>.stl
