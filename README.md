@@ -12,6 +12,15 @@ This is the intended original design. Requires more magnets and hardware, but al
 ### "Voron Spec"
 Exactly the same configuration as standard Voron panels, except with all the benefits of the magnet panels and hinges. This mod was designed with "All Doors" in mind, but for users who don't need this functionality, using the "Voron Spec" configuration will save you a ton of hardware and simplify installation.
 
+## Tools:
+- *Small Hammer* for tapping magnets gently into place. Doesn't even have to be a hammer, you need much force at all.
+- *1x m3x14 SHCS or similar length screw* to use with the hammer.
+- *Flat, solid surface* for hammering
+- *Appropriate Hex Key for your m3x8 screws.*
+- *Fingers*
+- *Scissors* for the VHB tape. You'll want nice, sharp and clean ones.
+- *A few seasons of The Office* (Can supplement with your show of choice) while assembling the hardware prior to installation.
+
 ## "All Doors" BOM:
 - **236x** - *6x3mm Disc Magnets (Grade n52 Recommended)*
   - [Source: West3d](https://west3d.com/products/6mm-x-3mm-round-neomydium-magnets)
@@ -57,7 +66,7 @@ Exactly the same configuration as standard Voron panels, except with all the ben
 
 Print one magnet_test.stl for every filament you plan to use for this mod, some filaments behave very surprisingly differently!
 
-You are looking for a "snug" but not "tight" fit. You should be able to start the magnets with your hands and some pressure, but perhaps have to (very lightly) tap them with a small tool (I used a hammer and M3x20 screw with the screwhead on the magnet) to seat them all the way down.
+You are looking for a "snug" but not "tight" fit. You should be able to start the magnets with your hands and some pressure. You **do not** need to seat them all the way down at this step, as long as you can push them in flush with your hands, and they stay snug, you're good. If you can't seat them all the way down into the hole with your hands, that's ok.
 
 ![Magnet Test](Images/Magnet-Test.png)
 
