@@ -1,14 +1,19 @@
+### EMP - The Excessively Magnetic Panel Mod
+
+## Description:
 This mode converts every panel on the Voron to a well sealed, removable magnet doors with magnetic hinges. All panels function as doors and are removable with no hardware what so ever, just yank 'em out!
 
 There are 2 variants of this panel mod:
 
-"All Doors" - Requires more magnets and hardware, but allows you to open every single panel on your Voron (including the back and top!) like a hinged door or just yank them all off with no hardware.
+# "All Doors"
+Requires more magnets and hardware, but allows you to open every single panel on your Voron (including the back and top!) like a hinged door or just yank them all off with no hardware.
 
-"Voron Spec" - Exactly the same configuration as standard Voron panels, except all magnetic and removable without hardware, with the new seal.
+# "Voron Spec"
+Exactly the same configuration as standard Voron panels, except all magnetic and removable without hardware, with the new seal.
 
-This mod was designed with "All Doors" in mind, but for users who don't need this functionality, using the "Voron Spec" configuration will save you a ton of hardware.
+This mod was designed with "All Doors" in mind, but for users who don't need this functionality, using the "Voron Spec" configuration will save you a ton of hardware and simplify installation.
 
-"All Doors" BOM:
+## "All Doors" BOM:
 6x3mm Disc Magnets (Grade n52 Recommended)  - 236ea
 ![Source: West3d](https://west3d.com/products/6mm-x-3mm-round-neomydium-magnets)
 
@@ -21,7 +26,7 @@ M3 T-Nut (This is in addition to above)     - 24ea
 9mm/8mm Weatherseal                         - Approx. 10 Meters / 33 Feet
 ![Local Source in U.S.](https://www.homedepot.com/p/M-D-Building-Products-17-ft-Black-Small-Rubber-Auto-Marine-Weatherseal-for-All-Climates-01025/202066509)
 
-Per STL breakdown:
+# Per STL breakdown:
 - [a]hinge_frame_<SIZE>.stl                 - 48 Magnets, 36 Screws, 12 Hammerhead, 24 T-nuts
 - [a]corner_clip_frame_<SIZE>.stl           - 40 Magnets, 40 Screws, 40 Hammerheads
 - [a]side_clip_frame_<SIZE>.stl             - 30 Magnets, 15 Screw, 15 Hammerhead
@@ -32,7 +37,7 @@ Per STL breakdown:
 - corner_clip_panel_<SIZE>.stl              - 40 Magnets, 1200mm VHB tape
 - side_clip_panel_<SIZE>.stl                - 22 Magnets, 220mm VHB tape
 
-"Voron Spec" BOM:
+## "Voron Spec" BOM:
 6x3mm Disc Magnets (Grade n52 Recommended)  - 188ea
 ![Source: West3d](https://west3d.com/products/6mm-x-3mm-round-neomydium-magnets)
 
@@ -45,7 +50,7 @@ T-Nut (This is in addition to above)        - 8ea
 9mm/8mm Weatherseal                         - Approx. 10 Meters / 33 Feet
 ![Source: Local Source in U.S, Home Depot](https://www.homedepot.com/p/M-D-Building-Products-17-ft-Black-Small-Rubber-Auto-Marine-Weatherseal-for-All-Climates-01025/202066509)                     - 2 Packages
 
-Per STL breakdown:
+# Per STL breakdown:
 - [a]hinge_frame_<SIZE>.stl                 - 16 Magnets, 12 Screws, 4 Hammerhead, 8 T-nuts
 - [a]corner_clip_frame_<SIZE>.stl           - 40 Magnets, 40 Screws, 40 Hammerheads
 - [a]side_clip_frame_<SIZE>.stl             - 38 Magnets, 19 Screw, 19 Hammerhead
@@ -56,20 +61,7 @@ Per STL breakdown:
 - corner_clip_panel_<SIZE>.stl              - 40 Magnets, 1200mm VHB tape
 - side_clip_panel_<SIZE>.stl                - 30 Magnets, 300mm VHB tape
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Per STL BOM (Ref. Full Part Descriptions Above):
+## Per STL BOM (Ref. Full Part Descriptions Above):
 - [a]hinge_frame_<SIZE>.stl                 - 4 Magnets, 3 Screws, 1 Hammerhead, 2 T-nuts
 - [a]corner_clip_frame_<SIZE>.stl           - 2 Magnets, 2 Screws, 2 Hammerheads
 - [a]side_clip_frame_<SIZE>.stl             - 2 Magnets, 1 Screw, 1 Hammerhead
