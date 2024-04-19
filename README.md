@@ -80,28 +80,41 @@ All prints are designed to print to Voron Spec profiles. If you have warping iss
 
 ## For "All Doors":
 ### Print with top/vertical hole size:
-- **12x** *[a]hinge_frame_<SIZE>.stl*
-- **12x** *hinge_panel_<SIZE>.stl*
+- **12x** *[a]hinge_frame_SIZE.stl*
+- **12x** *hinge_panel_SIZE.stl*
 
 ### Print with bottom/horizontal hole size:
-- **20x** *[a]corner_clip_frame_<SIZE>.stl*
-- **15x** *[a]side_clip_frame_<SIZE>.stl*
-- **2x** *door_clip_1_<SIZE>.stl*
-- **2x** *door_clip_2_<SIZE>.stl*
-- **20x** *corner_clip_panel_<SIZE>.stl*
-- **11x** *side_clip_panel_<SIZE>.stl*
+- **20x** *[a]corner_clip_frame_SIZE.stl*
+- **15x** *[a]side_clip_frame_SIZE.stl*
+- **2x** *door_clip_1_SIZE.stl*
+- **2x** *door_clip_2_SIZE.stl*
+- **20x** *corner_clip_panel_SIZE.stl*
+- **11x** *side_clip_panel_SIZE.stl*
 
 ## For "Voron Spec":
 ### Print with top/vertical hole size:
-- **4x** *[a]hinge_frame_<SIZE>.stl*
-- **4x** *hinge_panel_<SIZE>.stl*
+- **4x** *[a]hinge_frame_SIZE.stl*
+- **4x** *hinge_panel_SIZE.stl*
 
 ### Print with bottom/horizontal hole size:
-- **20x** *[a]corner_clip_frame_<SIZE>.stl*
-- **19x** *[a]side_clip_frame_<SIZE>.stl*
-- **2x** *door_clip_1_<SIZE>.stl*
-- **2x** *door_clip_2_<SIZE>.stl*
-- **20x** *corner_clip_panel_<SIZE>.stl*
-- **15x** *side_clip_panel_<SIZE>.stl*
+- **20x** *[a]corner_clip_frame_SIZE.stl*
+- **19x** *[a]side_clip_frame_SIZE.stl*
+- **2x** *door_clip_1_SIZE.stl*
+- **2x** *door_clip_2_SIZE.stl*
+- **20x** *corner_clip_panel_SIZE.stl*
+- **15x** *side_clip_panel_SIZE.stl*
 
 # Assembly:
+## Magnets
+First step is to insert all of the magnets into all of the STLs. It's very important to get the polarity correct. Be aware of the orientation of the parts in the example images.
+
+I've found the best method to insert the magnets is to use hand push in the magnet until it's halfway in, and then use the head of an M3x14mm screw and attach it to the magnet, then lightly tapthe magnet down in place with a hammer. It makes assembly go much faster. Just be sure to use a flat surface so you don't blow the magnet straight through the hole!
+
+![Magnet Test](Images/Magnets-1.png)
+![Magnet Test](Images/Magnets-2.png)
+
+##Hardware
+![Magnet Test](Images/Hardware.png)
+
+##VHB Tape
+![Magnet Test](Images/VHB-Tape.png)
