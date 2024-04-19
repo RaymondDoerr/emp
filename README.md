@@ -168,7 +168,13 @@ The weatherseal is placed on last so you don't accidentally tear it while instal
 
 **Images here**
 
-Installation should be complete at this point. This is where you'll need to look at the overall fit and finish, verify everything looks nice and lined up and even when the doors/panels are installed/closed. Be gentle withthe hinges for a few days while the VHB tape settles (ie; don't leave them hanging open on their own weight), but after you should be good to go!
+Installation should be complete at this point. This is where you'll need to look at the overall fit and finish, verify everything looks nice and lined up and even when the doors/panels are installed/closed.
+
+Be gentle with the hinges for a few days while the VHB tape settles (ie; don't leave them hanging open on their own weight overnight). I like to give the clips a good squish against the panel here and there as I'm working with the printer, just to be sure.
+
+If you have serious issues with the VHB tape holding to the parts post install, there's a few things you can try:
+- Lightly sand the clips and replace new tape. Ironically a really well tuned printer with a really good top layer will have less adhesion with the tape. So grats on a good top layer if this is you!
+- If all else fails and you're working with a filament that just won't stick to the tape no matter what you do, a **very** thin layer of super glue between the tape and panel clips will perma-bond it forever. **Just be extremely careful not to get it on your panels, it'll ruin them!!!**. If you must do this, I recommend applying the glue to the clip/tape and letting it fully dry before reattaching them to the panels to avoid any superglue leaking on to the panel. Ideally, no one should have to use glue. But with 10,000,000 brands of ABS and ASA out there, some may just be more stubborn than others.
 
 Done?
 
@@ -178,7 +184,7 @@ Done?
 - You can rearrange everything, adding or moving hinges and clips where you desire.
 
 # Mod Compatibility
-- This had not been tested with the [Clicky-Clack Fridge Door Mod](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door), but should theoretically work if you omit the side clips interfering with the Fridge Mod's hinge, and obviously, don't install EMP's front panel/door parts.
+- This had not been tested with the [Clicky-Clack Fridge Door Mod](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door), but should theoretically work if you omit the side clips interfering with the Fridge Mod's hinge.
 - This should work with just about any mod that doesn't have an issue with the panels being pushed outwards about 6-8mm from the frame.
 
 # Coming Soon (Before full release)
