@@ -168,11 +168,18 @@ The weatherseal is placed on last so you don't accidentally tear it while instal
 
 **Images here**
 
+Installation should be complete at this point. This is where you'll need to look at the overall fit and finish, verify everything looks nice and lined up and even when the doors/panels are installed/closed. Be gentle withthe hinges for a few days while the VHB tape settles (ie; don't leave them hanging open on their own weight), but after you should be good to go!
+
 Done?
 
 
 # Optional
 - All _panel STL files, except the hinges, can have an additional magnet added if you want to go overkill with magnet strength. Note that this will add an enormous amount of extra magnets (Roughly 25-30% more) to the BOM.
+- You can rearrange everything, adding or moving hinges and clips where you desire.
+
+# Mod Compatibility
+- This had not been tested with the [Clicky-Clack Fridge Door Mod](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door), but should theoretically work if you omit the side clips interfering with the Fridge Mod's hinge, and obviously, don't install EMP's front panel/door parts.
+- This should work with just about any mod that doesn't have an issue with the panels being pushed outwards about 6-8mm from the frame.
 
 # Coming Soon (Before full release)
 - A magnetic door handle of some sort.
