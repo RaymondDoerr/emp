@@ -54,9 +54,9 @@ Exactly the same configuration as standard Voron panels, except with all the ben
 ## Per STL BOM (Ref. Full Part Descriptions Above):
 - *[a]hinge_frame_<SIZE>.stl*
   - **4 Magnets, 3 Screws, 1 Hammerhead, 2 T-nuts**
-- *[a]corner_clip_frame_<SIZE>.stl*
+- *[a]corner_frame_<SIZE>.stl*
   - **2 Magnets, 2 Screws, 2 Hammerheads**
-- *[a]side_clip_frame_<SIZE>.stl*
+- *[a]side_frame_<SIZE>.stl*
   - **2 Magnets, 1 Screw, 1 Hammerhead**
 - *hinge_panel_<SIZE>.stl*
   - **4 Magnets, 40mm VHB tape**
@@ -64,9 +64,9 @@ Exactly the same configuration as standard Voron panels, except with all the ben
   - **2 Magnets, 20mm VHB tape**
 - *door_clip_2_<SIZE>.stl*
   - **2 Magnets, 20mm VHB tape**
-- *corner_clip_panel_<SIZE>.stl*
+- *corner_panel_<SIZE>.stl*
   - **2 Magnets, 60mm VHB tape**
-- *side_clip_panel_<SIZE>.stl*
+- *side_panel_<SIZE>.stl*
   - **2 Magnets, 20mm VHB tape**
 
 # The Magnet Tolerance Test:
@@ -93,12 +93,12 @@ All prints are designed to print to Voron Spec profiles. If you have warping iss
 - **12x** *hinge_panel_SIZE.stl*
 
 ### Print with bottom/horizontal hole size:
-- **20x** *[a]corner_clip_frame_SIZE.stl*
-- **15x** *[a]side_clip_frame_SIZE.stl*
+- **20x** *[a]corner_frame_SIZE.stl*
+- **15x** *[a]side_frame_SIZE.stl*
 - **2x** *door_clip_1_SIZE.stl*
 - **2x** *door_clip_2_SIZE.stl*
-- **20x** *corner_clip_panel_SIZE.stl*
-- **11x** *side_clip_panel_SIZE.stl*
+- **20x** *corner_panel_SIZE.stl*
+- **11x** *side_panel_SIZE.stl*
 
 ## For "Voron Spec":
 ### Print with top/vertical hole size:
@@ -106,12 +106,12 @@ All prints are designed to print to Voron Spec profiles. If you have warping iss
 - **4x** *hinge_panel_SIZE.stl*
 
 ### Print with bottom/horizontal hole size:
-- **20x** *[a]corner_clip_frame_SIZE.stl*
-- **19x** *[a]side_clip_frame_SIZE.stl*
+- **20x** *[a]corner_frame_SIZE.stl*
+- **19x** *[a]side_frame_SIZE.stl*
 - **2x** *door_clip_1_SIZE.stl*
 - **2x** *door_clip_2_SIZE.stl*
-- **20x** *corner_clip_panel_SIZE.stl*
-- **15x** *side_clip_panel_SIZE.stl*
+- **20x** *corner_panel_SIZE.stl*
+- **15x** *side_panel_SIZE.stl*
 
 # Assembly:
 ## Magnets
@@ -139,22 +139,22 @@ Don't skimp on the VHB tape! When installed, press down extremely hard on the pa
 # Installation:
 Refer to the following images for clip placement on the various panels. Apply significant pressure to the tape to ensure it sticks. In my experience, the VHB tape may be a bit weak the first few days but should all hold together just fine.
 
-- corner_clip_panel.stl are placed in the 4 corners.
-- side_clip_panel.stl are placed on 3 of the 4 sides in the center.
+- corner_panel.stl are placed in the 4 corners.
+- side_panel.stl are placed on 3 of the 4 sides in the center.
 - hinge_panel.stl are placed 10cm from the edge of the panel on one side. 
 
 **Images here**
 
 When installing the frame STLs, install them loose initially (just tight enough they don't fall out), you'll use the panels themselves to align the frame STLs in a future step. Place them in the same locations as the panel clips, just on the frame.
 
-- corner_clip_panel.stl are placed in the 4 corners.
-- side_clip_panel.stl are placed on 3 of the 4 sides in the center.
+- corner_panel.stl are placed in the 4 corners.
+- side_panel.stl are placed on 3 of the 4 sides in the center.
 - hinge_panel.stl are placed 10cm from the edge of the panel on one side. 
 
 Refer to the following images for frame placement on the various extrusions:
 **Images here**
 
-Slide/place the side_clip_frame.stl and hinge_frame.stl parts under their respective _panel. You may have to loosen them a tad if you used hammerheads.
+Slide/place the side_frame.stl and hinge_frame.stl parts under their respective _panel. You may have to loosen them a tad if you used hammerheads.
 
 **With the panel installed and attached to the magnets**, tighten the _frame.stl parts **through** the _panel.stls with the guide holes provided. Use your hands to hold the _frame.stl and _panel.stl flush with eachother while tightening for better alignment.
 
