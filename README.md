@@ -27,8 +27,8 @@ Exactly the same configuration as standard Voron panels, except with all the ben
 - **236x** - *6x3mm Disc Magnets (Grade n52 Recommended)*
   - [Source: West3d](https://west3d.com/products/6mm-x-3mm-round-neomydium-magnets)
 - **91x** - *M3x8mm SHCS Screws*
-- **67x** - *Hammerheads, T-Nuts or Springnuts*
-- **24x** - *T-Nuts (This is in addition to above)*
+- **67x** - *Hammerheads, Roll In T-Nuts or Springnuts*
+- **24x** - *Roll In T-Nuts (This is in addition to above)*
 - **Approx. 2 Meters / 6.7 Feet** - *0.4 Inch VHB Tape*
   - [Source: Lifetime Supply off Amazon](https://www.amazon.com/gp/product/B0CLV11RT9/)
 - **Approx. 10 Meters / 33 Feet** - *9mm/8mm Weatherseal* (M-D Brand, Part No. 01025 Recommended)
@@ -41,8 +41,8 @@ Exactly the same configuration as standard Voron panels, except with all the ben
 - **188x** - *6x3mm Disc Magnets (Grade n52 Recommended)*
   - [Source: West3d](https://west3d.com/products/6mm-x-3mm-round-neomydium-magnets)
 - **71x** - *M3x8mm SHCS Screws*
-- **63x** - *Hammerheads, T-Nuts or Springnuts*
-- **8x** - *T-Nuts (This is in addition to above)*
+- **63x** - *Hammerheads, Roll In T-Nuts or Springnuts*
+- **8x** - *Roll In T-Nuts (This is in addition to above)*
 - **Approx. 1.8 Meters / 5.9 Feet** - *0.4 Inch VHB Tape*
   - [Source: Lifetime Supply off Amazon](https://www.amazon.com/gp/product/B0CLV11RT9/)
 - **Approx. 10 Meters / 33 Feet** - *9mm/8mm Weatherseal* (M-D Brand, Part No. 01025 Recommended)
