@@ -41,15 +41,12 @@ This mod was designed with "All Doors" in mind, but for users who don't need thi
   - 22 Magnets, 220mm VHB tape
 
 ## "Voron Spec" BOM:
-- 6x3mm Disc Magnets (Grade n52 Recommended)
-  - 188ea
-    - [Source: West3d](https://west3d.com/products/6mm-x-3mm-round-neomydium-magnets)
-- M3x8mm SHCS Screws
-  - 71ea
-- Hammerhead, T-Nut or Springnut
-  - 63ea
-- T-Nut (This is in addition to above)
-  - 8ea
+- **188x** *6x3mm Disc Magnets (Grade n52 Recommended)*
+  - [Source: West3d](https://west3d.com/products/6mm-x-3mm-round-neomydium-magnets)
+- **71x** *M3x8mm SHCS Screws*
+- **63x** *Hammerhead, T-Nut or Springnut*
+- **8x** *T-Nut (This is in addition to above)*
+  
 - 0.4 Inch VHB Tape
   - Approx. 1.8 Meters / 5.9 Feet
     - [Source: Lifetime Supply off Amazon](https://www.amazon.com/gp/product/B0CLV11RT9/)
