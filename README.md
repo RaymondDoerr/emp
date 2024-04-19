@@ -145,7 +145,7 @@ Refer to the following images for clip placement on the various panels. Apply si
 
 **Images here**
 
-When installing the frame STLs, install them loose initially (just tight enough they don't fall out), you'll use the panels themselves to align the frame STLs in a future step. Please them in the same locations as the panel clips, just on the frame.
+When installing the frame STLs, install them loose initially (just tight enough they don't fall out), you'll use the panels themselves to align the frame STLs in a future step. Place them in the same locations as the panel clips, just on the frame.
 
 - corner_clip_panel.stl are placed in the 4 corners.
 - side_clip_panel.stl are placed on 3 of the 4 sides in the center.
@@ -154,21 +154,19 @@ When installing the frame STLs, install them loose initially (just tight enough 
 Refer to the following images for frame placement on the various extrusions:
 **Images here**
 
-The weatherseal is placed on last, if want the weatherseal placed flush along the inner side of the extrusion. If you purchased the same brand I did, many times the adhesive isn't aligned, use this to your advantage so you don't have any exposed adhesive.
+Slide/place the side_clip_frame.stl and hinge_frame.stl parts under their respective _panel. You may have to loosen them a tad if you used hammerheads.
 
-**Images here**
-
-Once the weather seal is in place, attach the doors to the extrusions, at this step only the 4 corners need to actually attach.
-
-Slide/place the side_clip_frame.stl and hinge_frame.stl parts under their respective _panel. You may have to loosen them if you used hammerheads.
-
-With the panel installed and attached to the magnets, tighten the _frame.stl parts **through** the _panel.stls with the guideholes provided. Use your hands to hold the _frame.stl and _panel.stl flush with eachother while tightening for better alignment.
+**With the panel installed and attached to the magnets**, tighten the _frame.stl parts **through** the _panel.stls with the guide holes provided. Use your hands to hold the _frame.stl and _panel.stl flush with eachother while tightening for better alignment.
 
 **Image Here**
 
 Install the T-Nuts for the hinges and slide them under hinge_frame.stl
 
 **Image Here**
+
+The weatherseal is placed on last so you don't accidentally tear it while installing the frame STLs, if want the weatherseal placed flush along the inner side of the extrusion. If you purchased the same brand I did, many times the adhesive isn't aligned, use this to your advantage so you don't have any exposed adhesive.
+
+**Images here**
 
 Done?
 
@@ -210,11 +208,19 @@ Done?
   - 22 Magnets, 220mm VHB tape
   
 ### Per STL breakdown for Voron Spec:
-- [a]hinge_frame_<SIZE>.stl                 - 16 Magnets, 12 Screws, 4 Hammerhead, 8 T-nuts
-- [a]corner_clip_frame_<SIZE>.stl           - 40 Magnets, 40 Screws, 40 Hammerheads
-- [a]side_clip_frame_<SIZE>.stl             - 38 Magnets, 19 Screw, 19 Hammerhead 
-- hinge_panel_<SIZE>.stl                    - 16 Magnets, 160mm VHB tape
-- door_clip_1_<SIZE>.stl                    - 4 Magnets, 40mm VHB tape
-- door_clip_2_<SIZE>.stl                    - 4 Magnets, 40mm VHB tape
-- corner_clip_panel_<SIZE>.stl              - 40 Magnets, 1200mm VHB tape
-- side_clip_panel_<SIZE>.stl                - 30 Magnets, 300mm VHB tape
+- [a]hinge_frame_<SIZE>.stl
+  - 16 Magnets, 12 Screws, 4 Hammerhead, 8 T-nuts
+- [a]corner_clip_frame_<SIZE>.stl
+  - 40 Magnets, 40 Screws, 40 Hammerheads
+- [a]side_clip_frame_<SIZE>.stl
+  - 38 Magnets, 19 Screw, 19 Hammerhead 
+- hinge_panel_<SIZE>.stl
+  - 16 Magnets, 160mm VHB tape
+- door_clip_1_<SIZE>.stl
+  - 4 Magnets, 40mm VHB tape
+- door_clip_2_<SIZE>.stl
+  - 4 Magnets, 40mm VHB tape
+- corner_clip_panel_<SIZE>.stl
+  - 40 Magnets, 1200mm VHB tape
+- side_clip_panel_<SIZE>.stl
+  - 30 Magnets, 300mm VHB tape
