@@ -14,11 +14,11 @@ Exactly the same configuration as standard Voron panels, except with all the ben
 
 # BOMs and Tool Lists:
 
-## Tools:
+## Tools (You have them already):
 - **Small Hammer** for tapping magnets gently into place. Doesn't even have to be a hammer, you should not need much force at all. A rubber mallet also works well.
 - **1x m3x20 SHCS or similar length screw** to use with the hammer. You just need an m3 SHCS long enough you can hold it with your fingers while you use the hammer.
 - **Flat, solid surface** for hammering.
-- **2.5mm Hex Key for your m3x8 screws.**
+- **2.5mm Hex Key.**
 - **Metric Ruler** at least 10cm long. (Calipers, measuring tape, etc, also work fine.)
 - **Scissors** for the VHB tape. You'll want nice, sharp and clean ones.
 - **A few seasons of The Office** while assembling the hardware prior to installation. (Can supplement with your show of choice.)
