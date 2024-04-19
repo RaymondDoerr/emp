@@ -115,7 +115,9 @@ Don't skimp on the VHB tape! When installed, press down extremely hard on the pa
 
 ![Magnet Test](Images/VHB-Tape.png)
 
-<INCOMPLETE DOCS BELOW>
+# **INCOMPLETE DOCS BELOW**
+# **INCOMPLETE DOCS BELOW**
+# **INCOMPLETE DOCS BELOW**
 
 # Installation:
 Refer to the following images for clip placement on the various panels. Apply significant pressure to the tape to ensure it sticks. In my experience, the VHB tape may be a bit weak the first few days but should all hold together just fine.
