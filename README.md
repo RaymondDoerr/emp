@@ -106,6 +106,7 @@ All prints are designed to print to Voron Spec profiles. If you have warping iss
 
 # Assembly:
 ## Magnets
+
 First step is to insert all of the magnets into all of the STLs. It's very important to get the polarity correct. Be aware of the orientation of the parts in the example images.
 
 I've found the best method to insert the magnets is to use hand push in the magnet until it's halfway in, and then use the head of an M3x14mm screw and attach it to the magnet, then lightly tap the magnet down in place with a hammer. It makes assembly go much faster. Just be sure to use a flat surface so you don't blow the magnet straight through the hole!
@@ -114,9 +115,11 @@ I've found the best method to insert the magnets is to use hand push in the magn
 ![Magnet Test](Images/Magnets-2.png)
 
 ##Hardware
+
 ![Magnet Test](Images/Hardware.png)
 
 ##VHB Tape
+
 ![Magnet Test](Images/VHB-Tape.png)
 
 # Optional
