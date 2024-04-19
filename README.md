@@ -14,15 +14,12 @@ Exactly the same configuration as standard Voron panels, except all magnetic and
 This mod was designed with "All Doors" in mind, but for users who don't need this functionality, using the "Voron Spec" configuration will save you a ton of hardware and simplify installation.
 
 ## "All Doors" BOM:
-- 6x3mm Disc Magnets (Grade n52 Recommended)  - 236ea
-- [Source: West3d](https://west3d.com/products/6mm-x-3mm-round-neomydium-magnets)
+- 6x3mm Disc Magnets (Grade n52 Recommended)  - 236ea ([Source: West3d](https://west3d.com/products/6mm-x-3mm-round-neomydium-magnets))
 - M3x8mm SHCS Screws                          - 91ea
 - M3 Hammerhead, T-Nut or Springnut           - 67ea
 - M3 T-Nut (This is in addition to above)     - 24ea
-- 0.4 Inch VHB Tape                           - Approx. 2 Meters / 6.7 Feet
-- [Lifetime Supply off Amazon](https://www.amazon.com/gp/product/B0CLV11RT9/)
-- 9mm/8mm Weatherseal                         - Approx. 10 Meters / 33 Feet
-- [Local Source in U.S.](https://www.homedepot.com/p/M-D-Building-Products-17-ft-Black-Small-Rubber-Auto-Marine-Weatherseal-for-All-Climates-01025/202066509)
+- 0.4 Inch VHB Tape                           - Approx. 2 Meters / 6.7 Feet ([Lifetime Supply off Amazon](https://www.amazon.com/gp/product/B0CLV11RT9/))
+- 9mm/8mm Weatherseal                         - Approx. 10 Meters / 33 Feet ([Local Source in U.S.](https://www.homedepot.com/p/M-D-Building-Products-17-ft-Black-Small-Rubber-Auto-Marine-Weatherseal-for-All-Climates-01025/202066509) - 2 Packages )
 
 
 ### Per STL breakdown:
@@ -36,15 +33,12 @@ This mod was designed with "All Doors" in mind, but for users who don't need thi
 - side_clip_panel_<SIZE>.stl                - 22 Magnets, 220mm VHB tape
 
 ## "Voron Spec" BOM:
-- 6x3mm Disc Magnets (Grade n52 Recommended)  - 188ea
-- [Source: West3d](https://west3d.com/products/6mm-x-3mm-round-neomydium-magnets)
+- 6x3mm Disc Magnets (Grade n52 Recommended)  - 188ea ([Source: West3d](https://west3d.com/products/6mm-x-3mm-round-neomydium-magnets))
 - M3x8mm SHCS Screws                          - 71ea
 - Hammerhead, T-Nut or Springnut              - 63ea
 - T-Nut (This is in addition to above)        - 8ea
-- 0.4 Inch VHB Tape                           - Approx. 1.8 Meters / 5.9 Feet
-- [Source: Lifetime Supply off Amazon](https://www.amazon.com/gp/product/B0CLV11RT9/)
-- 9mm/8mm Weatherseal                         - Approx. 10 Meters / 33 Feet
-- [Source: Local Source in U.S, Home Depot](https://www.homedepot.com/p/M-D-Building-Products-17-ft-Black-Small-Rubber-Auto-Marine-Weatherseal-for-All-Climates-01025/202066509)                     - 2 Packages
+- 0.4 Inch VHB Tape                           - Approx. 1.8 Meters / 5.9 Feet ([Source: Lifetime Supply off Amazon](https://www.amazon.com/gp/product/B0CLV11RT9/))
+- 9mm/8mm Weatherseal                         - Approx. 10 Meters / 33 Feet ([Source: Local Source in U.S, Home Depot](https://www.homedepot.com/p/M-D-Building-Products-17-ft-Black-Small-Rubber-Auto-Marine-Weatherseal-for-All-Climates-01025/202066509) - 2 Packages )
 
 ### Per STL breakdown:
 - [a]hinge_frame_<SIZE>.stl                 - 16 Magnets, 12 Screws, 4 Hammerhead, 8 T-nuts
