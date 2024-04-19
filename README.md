@@ -15,77 +15,113 @@ This mod was designed with "All Doors" in mind, but for users who don't need thi
 
 ## "All Doors" BOM:
 6x3mm Disc Magnets (Grade n52 Recommended)  - 236ea
-![Source: West3d](https://west3d.com/products/6mm-x-3mm-round-neomydium-magnets)
+
+[Source: West3d](https://west3d.com/products/6mm-x-3mm-round-neomydium-magnets)
+
 
 M3x8mm SHCS Screws                          - 91ea
+
 M3 Hammerhead, T-Nut or Springnut           - 67ea
+
 M3 T-Nut (This is in addition to above)     - 24ea
+
 0.4 Inch VHB Tape                           - Approx. 2 Meters / 6.7 Feet
+
 [Lifetime Supply off Amazon](https://www.amazon.com/gp/product/B0CLV11RT9/)
 
+
 9mm/8mm Weatherseal                         - Approx. 10 Meters / 33 Feet
+
 [Local Source in U.S.](https://www.homedepot.com/p/M-D-Building-Products-17-ft-Black-Small-Rubber-Auto-Marine-Weatherseal-for-All-Climates-01025/202066509)
 
-### Per STL breakdown:
-- [a]hinge_frame_<SIZE>.stl                 - 48 Magnets, 36 Screws, 12 Hammerhead, 24 T-nuts
-- [a]corner_clip_frame_<SIZE>.stl           - 40 Magnets, 40 Screws, 40 Hammerheads
-- [a]side_clip_frame_<SIZE>.stl             - 30 Magnets, 15 Screw, 15 Hammerhead
 
-- hinge_panel_<SIZE>.stl                    - 48 Magnets, 480mm VHB tape
-- door_clip_1_<SIZE>.stl                    - 4 Magnets, 40mm VHB tape
-- door_clip_2_<SIZE>.stl                    - 4 Magnets, 40mm VHB tape
-- corner_clip_panel_<SIZE>.stl              - 40 Magnets, 1200mm VHB tape
-- side_clip_panel_<SIZE>.stl                - 22 Magnets, 220mm VHB tape
+### Per STL breakdown:
+
+[a]hinge_frame_<SIZE>.stl                 - 48 Magnets, 36 Screws, 12 Hammerhead, 24 T-nuts
+
+[a]corner_clip_frame_<SIZE>.stl           - 40 Magnets, 40 Screws, 40 Hammerheads
+
+[a]side_clip_frame_<SIZE>.stl             - 30 Magnets, 15 Screw, 15 Hammerhead
+
+
+hinge_panel_<SIZE>.stl                    - 48 Magnets, 480mm VHB tape
+
+door_clip_1_<SIZE>.stl                    - 4 Magnets, 40mm VHB tape
+
+door_clip_2_<SIZE>.stl                    - 4 Magnets, 40mm VHB tape
+
+corner_clip_panel_<SIZE>.stl              - 40 Magnets, 1200mm VHB tape
+
+side_clip_panel_<SIZE>.stl                - 22 Magnets, 220mm VHB tape
 
 ## "Voron Spec" BOM:
 6x3mm Disc Magnets (Grade n52 Recommended)  - 188ea
+
 [Source: West3d](https://west3d.com/products/6mm-x-3mm-round-neomydium-magnets)
 
+
 M3x8mm SHCS Screws                          - 71ea
+
 Hammerhead, T-Nut or Springnut              - 63ea
+
 T-Nut (This is in addition to above)        - 8ea
+
 0.4 Inch VHB Tape                           - Approx. 1.8 Meters / 5.9 Feet
+
 [Source: Lifetime Supply off Amazon](https://www.amazon.com/gp/product/B0CLV11RT9/)
 
+
 9mm/8mm Weatherseal                         - Approx. 10 Meters / 33 Feet
+
 [Source: Local Source in U.S, Home Depot](https://www.homedepot.com/p/M-D-Building-Products-17-ft-Black-Small-Rubber-Auto-Marine-Weatherseal-for-All-Climates-01025/202066509)                     - 2 Packages
 
-### Per STL breakdown:
-- [a]hinge_frame_<SIZE>.stl                 - 16 Magnets, 12 Screws, 4 Hammerhead, 8 T-nuts
-- [a]corner_clip_frame_<SIZE>.stl           - 40 Magnets, 40 Screws, 40 Hammerheads
-- [a]side_clip_frame_<SIZE>.stl             - 38 Magnets, 19 Screw, 19 Hammerhead
 
-- hinge_panel_<SIZE>.stl                    - 16 Magnets, 160mm VHB tape
-- door_clip_1_<SIZE>.stl                    - 4 Magnets, 40mm VHB tape
-- door_clip_2_<SIZE>.stl                    - 4 Magnets, 40mm VHB tape
-- corner_clip_panel_<SIZE>.stl              - 40 Magnets, 1200mm VHB tape
-- side_clip_panel_<SIZE>.stl                - 30 Magnets, 300mm VHB tape
+### Per STL breakdown:
+[a]hinge_frame_<SIZE>.stl                 - 16 Magnets, 12 Screws, 4 Hammerhead, 8 T-nuts
+
+[a]corner_clip_frame_<SIZE>.stl           - 40 Magnets, 40 Screws, 40 Hammerheads
+
+[a]side_clip_frame_<SIZE>.stl             - 38 Magnets, 19 Screw, 19 Hammerhead
+
+
+hinge_panel_<SIZE>.stl                    - 16 Magnets, 160mm VHB tape
+
+door_clip_1_<SIZE>.stl                    - 4 Magnets, 40mm VHB tape
+
+door_clip_2_<SIZE>.stl                    - 4 Magnets, 40mm VHB tape
+
+corner_clip_panel_<SIZE>.stl              - 40 Magnets, 1200mm VHB tape
+
+side_clip_panel_<SIZE>.stl                - 30 Magnets, 300mm VHB tape
 
 ## Per STL BOM (Ref. Full Part Descriptions Above):
-- [a]hinge_frame_<SIZE>.stl                 - 4 Magnets, 3 Screws, 1 Hammerhead, 2 T-nuts
-- [a]corner_clip_frame_<SIZE>.stl           - 2 Magnets, 2 Screws, 2 Hammerheads
-- [a]side_clip_frame_<SIZE>.stl             - 2 Magnets, 1 Screw, 1 Hammerhead
+[a]hinge_frame_<SIZE>.stl                 - 4 Magnets, 3 Screws, 1 Hammerhead, 2 T-nuts
 
-- hinge_panel_<SIZE>.stl                    - 4 Magnets, 40mm VHB tape
-- door_clip_1_<SIZE>.stl                    - 2 Magnets, 20mm VHB tape
-- door_clip_2_<SIZE>.stl                    - 2 Magnets, 20mm VHB tape
-- corner_clip_panel_<SIZE>.stl              - 2 Magnets, 60mm VHB tape
-- side_clip_panel_<SIZE>.stl                - 2 Magnets, 20mm VHB tape
+[a]corner_clip_frame_<SIZE>.stl           - 2 Magnets, 2 Screws, 2 Hammerheads
+
+[a]side_clip_frame_<SIZE>.stl             - 2 Magnets, 1 Screw, 1 Hammerhead
 
 
+hinge_panel_<SIZE>.stl                    - 4 Magnets, 40mm VHB tape
 
+door_clip_1_<SIZE>.stl                    - 2 Magnets, 20mm VHB tape
 
+door_clip_2_<SIZE>.stl                    - 2 Magnets, 20mm VHB tape
 
+corner_clip_panel_<SIZE>.stl              - 2 Magnets, 60mm VHB tape
 
+side_clip_panel_<SIZE>.stl                - 2 Magnets, 20mm VHB tape
 
+# STL Print Requirements
 
+All prints are designed to print to Voron Spec profiles. If you have warping issues, these parts need very little cooling, all of mine were printed with only about a 5% fan speed on a Stealthburner.
 
-For "All Doors":
-Print with top/vertical hole size:
+## For "All Doors":
+### Print with top/vertical hole size:
 - [a]hinge_frame_<SIZE>.stl                 - 12ea
 - hinge_panel_<SIZE>.stl                    - 12ea
 
-Print with bottom/horizontal hole size:
+### Print with bottom/horizontal hole size:
 - [a]corner_clip_frame_<SIZE>.stl         - 20ea
 - [a]side_clip_frame_<SIZE>.stl           - 15ea
 - door_clip_1_<SIZE>.stl                  - 2ea
@@ -93,12 +129,12 @@ Print with bottom/horizontal hole size:
 - corner_clip_panel_<SIZE>.stl            - 20ea
 - side_clip_panel_<SIZE>.stl              - 11ea
 
-For "Voron Spec":
-Print with top/vertical hole size:
+## For "Voron Spec":
+### Print with top/vertical hole size:
 [a]hinge_frame_<SIZE>.stl                 - 4ea
 hinge_panel_<SIZE>.stl                    - 4ea
 
-Print with bottom/horizontal hole size:
+### Print with bottom/horizontal hole size:
 - [a]corner_clip_frame_<SIZE>.stl         - 20ea
 - [a]side_clip_frame_<SIZE>.stl           - 19ea
 - door_clip_1_<SIZE>.stl                  - 2ea
