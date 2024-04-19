@@ -23,7 +23,8 @@ This mod was designed with "All Doors" in mind, but for users who don't need thi
 
 
 ### Per STL breakdown:
-- [a]hinge_frame_<SIZE>.stl                 - 48 Magnets, 36 Screws, 12 Hammerhead, 24 T-nuts
+- [a]hinge_frame_<SIZE>.stl
+  - 48 Magnets, 36 Screws, 12 Hammerhead, 24 T-nuts
 - [a]corner_clip_frame_<SIZE>.stl           - 40 Magnets, 40 Screws, 40 Hammerheads
 - [a]side_clip_frame_<SIZE>.stl             - 30 Magnets, 15 Screw, 15 Hammerhead
 - hinge_panel_<SIZE>.stl                    - 48 Magnets, 480mm VHB tape
@@ -124,7 +125,7 @@ Don't skimp on the VHB tape! When installed, press down extremely hard on the pa
 ![Magnet Test](Images/VHB-Tape.png)
 
 # Optional
-- All _panel STLs (except the hinge) can have an additional magnet added if you want to go overkill with magnet strength.
+- All _panel STL files, except the hinges, can have an additional magnet added if you want to go overkill with magnet strength. Note that this will add an enormous amount of extra magnets (Roughly 25-30% more) to the BOM.
 
 # Coming Soon (before full release, hopefully)
 - A magnetic door handle of some sort.
