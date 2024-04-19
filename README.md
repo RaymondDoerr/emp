@@ -6,7 +6,7 @@ This mod converts every panel on the Voron to a well sealed, removable magnet do
 There are 2 variants of this panel mod:
 
 ### "All Doors"
-Requires more magnets and hardware, but allows you to open every single panel on your Voron (including the back and top!) like a hinged door or just yank them all off with no hardware.
+This is the intended original design. Requires more magnets and hardware, but allows you to open every single panel on your Voron (including the back and top!) like a hinged door or just yank them all off with no hardware.
 
 ### "Voron Spec"
 Exactly the same configuration as standard Voron panels, except all magnetic and removable without hardware, with the new seal.
