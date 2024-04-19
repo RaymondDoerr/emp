@@ -31,11 +31,11 @@ Exactly the same configuration as standard Voron panels, except with all the ben
 - **24x** - *T-Nuts (This is in addition to above)*
 - **Approx. 2 Meters / 6.7 Feet** - *0.4 Inch VHB Tape*
   - [Source: Lifetime Supply off Amazon](https://www.amazon.com/gp/product/B0CLV11RT9/)
-- **Approx. 10 Meters / 33 Feet** - *9mm/8mm Weatherseal*
+- **Approx. 10 Meters / 33 Feet** - *9mm/8mm Weatherseal* (M-D Brand, Part No. 01025 Recommended)
   - [Source: Amazon](https://www.amazon.com/Multipurpose-Seasons-Marine-Window-Weather/dp/B000HE7YQM) - 2 Packages of 17ft.
   - [U.S. Source: Home Depot](https://www.homedepot.com/p/M-D-Building-Products-17-ft-Black-Small-Rubber-Auto-Marine-Weatherseal-for-All-Climates-01025/202066509) - 2 Packages.
   - [U.S. Source: Ace Hardware](https://www.acehardware.com/departments/building-supplies/weather-stripping-and-window-film/weather-stripping/5315445) - 2 Packages.
-  - [U.S. Source: Lowes](https://www.lowes.com/pd/M-D-17-ft-x-11-32-in-Black-Rubber-Foam-Window-Weatherstrip/) - 2 Packages.
+  - [U.S. Source: Lowes](https://www.lowes.com/pd/M-D-17-ft-x-11-32-in-Black-Rubber-Foam-Window-Weatherstrip/1038915) - 2 Packages.
   
 ## "Voron Spec" BOM:
 - **188x** - *6x3mm Disc Magnets (Grade n52 Recommended)*
@@ -45,11 +45,11 @@ Exactly the same configuration as standard Voron panels, except with all the ben
 - **8x** - *T-Nuts (This is in addition to above)*
 - **Approx. 1.8 Meters / 5.9 Feet** - *0.4 Inch VHB Tape*
   - [Source: Lifetime Supply off Amazon](https://www.amazon.com/gp/product/B0CLV11RT9/)
-- **Approx. 10 Meters / 33 Feet** - *9mm/8mm Weatherseal*
+- **Approx. 10 Meters / 33 Feet** - *9mm/8mm Weatherseal* (M-D Brand, Part No. 01025 Recommended)
   - [Source: Amazon](https://www.amazon.com/Multipurpose-Seasons-Marine-Window-Weather/dp/B000HE7YQM) - 2 Packages of 17ft.
   - [U.S. Source: Home Depot](https://www.homedepot.com/p/M-D-Building-Products-17-ft-Black-Small-Rubber-Auto-Marine-Weatherseal-for-All-Climates-01025/202066509) - 2 Packages.
   - [U.S. Source: Ace Hardware](https://www.acehardware.com/departments/building-supplies/weather-stripping-and-window-film/weather-stripping/5315445) - 2 Packages.
-  - [U.S. Source: Lowes](https://www.lowes.com/pd/M-D-17-ft-x-11-32-in-Black-Rubber-Foam-Window-Weatherstrip/) - 2 Packages.
+  - [U.S. Source: Lowes](https://www.lowes.com/pd/M-D-17-ft-x-11-32-in-Black-Rubber-Foam-Window-Weatherstrip/1038915) - 2 Packages.
 
 ## Per STL BOM (Ref. Full Part Descriptions Above):
 - *[a]hinge_frame_<SIZE>.stl*
