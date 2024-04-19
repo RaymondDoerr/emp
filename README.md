@@ -25,21 +25,37 @@ This mod was designed with "All Doors" in mind, but for users who don't need thi
 ### Per STL breakdown:
 - [a]hinge_frame_<SIZE>.stl
   - 48 Magnets, 36 Screws, 12 Hammerhead, 24 T-nuts
-- [a]corner_clip_frame_<SIZE>.stl           - 40 Magnets, 40 Screws, 40 Hammerheads
-- [a]side_clip_frame_<SIZE>.stl             - 30 Magnets, 15 Screw, 15 Hammerhead
-- hinge_panel_<SIZE>.stl                    - 48 Magnets, 480mm VHB tape
-- door_clip_1_<SIZE>.stl                    - 4 Magnets, 40mm VHB tape
-- door_clip_2_<SIZE>.stl                    - 4 Magnets, 40mm VHB tape
-- corner_clip_panel_<SIZE>.stl              - 40 Magnets, 1200mm VHB tape
-- side_clip_panel_<SIZE>.stl                - 22 Magnets, 220mm VHB tape
+- [a]corner_clip_frame_<SIZE>.stl
+  - 40 Magnets, 40 Screws, 40 Hammerheads
+- [a]side_clip_frame_<SIZE>.stl
+  - 30 Magnets, 15 Screw, 15 Hammerhead
+- hinge_panel_<SIZE>.stl
+  - 48 Magnets, 480mm VHB tape
+- door_clip_1_<SIZE>.stl
+  - 4 Magnets, 40mm VHB tape
+- door_clip_2_<SIZE>.stl
+  - 4 Magnets, 40mm VHB tape
+- corner_clip_panel_<SIZE>.stl
+  - 40 Magnets, 1200mm VHB tape
+- side_clip_panel_<SIZE>.stl
+  - 22 Magnets, 220mm VHB tape
 
 ## "Voron Spec" BOM:
-- 6x3mm Disc Magnets (Grade n52 Recommended)  - 188ea ([Source: West3d](https://west3d.com/products/6mm-x-3mm-round-neomydium-magnets))
-- M3x8mm SHCS Screws                          - 71ea
-- Hammerhead, T-Nut or Springnut              - 63ea
-- T-Nut (This is in addition to above)        - 8ea
-- 0.4 Inch VHB Tape                           - Approx. 1.8 Meters / 5.9 Feet ([Source: Lifetime Supply off Amazon](https://www.amazon.com/gp/product/B0CLV11RT9/))
-- 9mm/8mm Weatherseal                         - Approx. 10 Meters / 33 Feet ([Source: Local Source in U.S, Home Depot](https://www.homedepot.com/p/M-D-Building-Products-17-ft-Black-Small-Rubber-Auto-Marine-Weatherseal-for-All-Climates-01025/202066509) - 2 Packages )
+- 6x3mm Disc Magnets (Grade n52 Recommended)
+  - 188ea
+    - [Source: West3d](https://west3d.com/products/6mm-x-3mm-round-neomydium-magnets)
+- M3x8mm SHCS Screws
+  - 71ea
+- Hammerhead, T-Nut or Springnut
+  - 63ea
+- T-Nut (This is in addition to above)
+  - 8ea
+- 0.4 Inch VHB Tape
+  - Approx. 1.8 Meters / 5.9 Feet
+    - [Source: Lifetime Supply off Amazon](https://www.amazon.com/gp/product/B0CLV11RT9/)
+- 9mm/8mm Weatherseal
+  - Approx. 10 Meters / 33 Feet
+    - [Source: Local Source in U.S, Home Depot](https://www.homedepot.com/p/M-D-Building-Products-17-ft-Black-Small-Rubber-Auto-Marine-Weatherseal-for-All-Climates-01025/202066509) - 2 Packages
 
 ### Per STL breakdown:
 - [a]hinge_frame_<SIZE>.stl                 - 16 Magnets, 12 Screws, 4 Hammerhead, 8 T-nuts
