@@ -192,14 +192,6 @@ Done?
 - Small magnetic arms to prop doors open.
 
 
-
-
-
-
-
-
-
-
 # Ignore below this line, I'm just too lazy to put notes anywhere else at the moment..
 
 ### Per STL breakdown for All Doors:
