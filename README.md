@@ -21,7 +21,7 @@ Exactly the same configuration as standard Voron panels, except with all the ben
 - **2.5mm Hex Key for your m3x8 screws.**
 - **Metric Ruler** at least 10cm long. (Calipers, measuring tape, etc, also work fine.)
 - **Scissors** for the VHB tape. You'll want nice, sharp and clean ones.
-- **A few seasons of The Office** (Can supplement with your show of choice) while assembling the hardware prior to installation.
+- **A few seasons of The Office** while assembling the hardware prior to installation. (Can supplement with Parks and Rec)
 
 ## "All Doors" BOM:
 - **236x** - *6x3mm Disc Magnets (Grade n52 Recommended)*
