@@ -112,7 +112,19 @@ corner_clip_panel_<SIZE>.stl              - 2 Magnets, 60mm VHB tape
 
 side_clip_panel_<SIZE>.stl                - 2 Magnets, 20mm VHB tape
 
+# The Magnet Tolerance Test:
+## (Don't skip!!)
+
+Print one magnet_test.stl for every filament you plan to use for this mod, some filaments behave very surprisingly differently!
+
+You are looking for a "snug" but not "tight" fit. You should be able to start the magnets with your hands and some pressure, but perhaps have to (very lightly) tap them with a small tool (I used a hammer and M3x20 screw with the screwhead on the magnet) to seat them all the way down. (see pic)
+
+The fastest way to find the correct holes is to start by inserting a magnet into the *largest* bottom hole (L), if the magnet falls in or can be yanked back out with another magnet, try the next smallest hole. The goal is to find one you can shove most of the way in with your hands and can't be yanked back out with another magnet.
+
+Repeat the same steps on the top/vertical holes. An ideal situation is you pick both the same size holes for the top and bottom. But due to print orientation you may find yourself needing to go up or down a size on the vertical holes.
+
 # STL Print Requirements
+After selecting the hole size, now it's time to print the STLs! Select the set of parts that match the hole size you've selected. The top/vertical holes are for the hinges, the horizontal holes were for all other parts.
 
 All prints are designed to print to Voron Spec profiles. If you have warping issues, these parts need very little cooling, all of mine were printed with only about a 5% fan speed on a Stealthburner.
 
@@ -145,18 +157,6 @@ hinge_panel_<SIZE>.stl                    - 4ea
 
 
 
-The magnet tolerance test:
-(Don't skip!!)
 
-Print the magnet tolerance test print. Print one for every filament you plan to use for this mod, some filaments behave differently!
-
-You are looking for a "snug" but not "tight" fit. You should be able to start the magnets with your hands and some pressure, but perhaps have to (very lightly) tap them with a small tool (I used a hammer and M3x20 screw with the screwhead on the magnet) to seat them all the way down. (see pic)
-
-The fastest way to find the correct holes is to start by inserting a magnet into the *largest* bottom hole (L), if the magnet falls in or can be yanked back out with another magnet, try the next smallest hole. The goal is to find one you can shove most of the way in with your hands and can't be yanked back out with another magnet.
-
-Repeat the same steps on the top/vertical holes. An ideal situation is you pick both the same size holes for the top and bottom. But due to print orientation you may find yourself needing to go up or down a size on the vertical holes.
 
 STLs:
-After selecting the hole size, now it's time to print the STLs! Select the set of parts that match the hole size you've selected. The top/vertical holes are for the hinges, the horizontal holes were for all other parts.
-
-Print settings: Identical to Voron Spec parts, in testing, I've found you only need about 5% cooling. Most parts can be printed with no cooling what so ever.
