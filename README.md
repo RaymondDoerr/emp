@@ -114,9 +114,13 @@ I've found the best method to insert the magnets is to use hand push in the magn
 ![Magnet Test](Images/Magnets-2.png)
 
 ## Hardware
+You may preload all the hardware **EXCEPT FOR** the T-nuts noted in red. These must be loaded into the extrusions and slid into place **after** installation of the door hinge.
+
 ![Magnet Test](Images/Hardware.png)
 
 ## VHB Tape
+Don't skimp on the VHB tape! When installed, press down extremely hard on the panels. VHB tape sticks better over time, but initially is can be somewhat weak, and the larger panels may try to pop off the first couple days.
+
 ![Magnet Test](Images/VHB-Tape.png)
 
 # Optional
