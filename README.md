@@ -65,7 +65,9 @@ This mod was designed with "All Doors" in mind, but for users who don't need thi
 
 Print one magnet_test.stl for every filament you plan to use for this mod, some filaments behave very surprisingly differently!
 
-You are looking for a "snug" but not "tight" fit. You should be able to start the magnets with your hands and some pressure, but perhaps have to (very lightly) tap them with a small tool (I used a hammer and M3x20 screw with the screwhead on the magnet) to seat them all the way down. (see pic)
+You are looking for a "snug" but not "tight" fit. You should be able to start the magnets with your hands and some pressure, but perhaps have to (very lightly) tap them with a small tool (I used a hammer and M3x20 screw with the screwhead on the magnet) to seat them all the way down.
+
+!([Magnet Test](Images\Magnet-Test.png))
 
 The fastest way to find the correct holes is to start by inserting a magnet into the *largest* bottom hole (L), if the magnet falls in or can be yanked back out with another magnet, try the next smallest hole. The goal is to find one you can shove most of the way in with your hands and can't be yanked back out with another magnet.
 
