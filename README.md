@@ -26,9 +26,9 @@ Exactly the same configuration as standard Voron panels, except with all the ben
 ## "All Doors" BOM:
 - **236x** - *6x3mm Disc Magnets (Grade n52 Recommended)*
   - [Source: West3d](https://west3d.com/products/6mm-x-3mm-round-neomydium-magnets)
-- **91x** - *M3x8mm SHCS Screws*
-- **67x** - *Hammerheads, Roll In T-Nuts or Springnuts*
-- **24x** - *Roll In T-Nuts (This is in addition to above)*
+- **89x** - *M3x8mm SHCS Screws*
+- **69x** - *Hammerheads, Roll In T-Nuts or Springnuts*, nice.
+- **20x** - *Roll In T-Nuts or Springnuts (This is in addition to above)*
 - **Approx. 2 Meters / 6.7 Feet** - *0.4 Inch VHB Tape*
   - [Source: Lifetime Supply off Amazon](https://www.amazon.com/gp/product/B0CLV11RT9/)
 - **Approx. 10 Meters / 33 Feet** - *9mm/8mm Weatherseal* (M-D Brand, Part No. 01025 Recommended)
@@ -42,7 +42,7 @@ Exactly the same configuration as standard Voron panels, except with all the ben
   - [Source: West3d](https://west3d.com/products/6mm-x-3mm-round-neomydium-magnets)
 - **71x** - *M3x8mm SHCS Screws*
 - **63x** - *Hammerheads, Roll In T-Nuts or Springnuts*
-- **8x** - *Roll In T-Nuts (This is in addition to above)*
+- **8x** - *Roll In T-Nuts or Springnuts (This is in addition to above)*
 - **Approx. 1.8 Meters / 5.9 Feet** - *0.4 Inch VHB Tape*
   - [Source: Lifetime Supply off Amazon](https://www.amazon.com/gp/product/B0CLV11RT9/)
 - **Approx. 10 Meters / 33 Feet** - *9mm/8mm Weatherseal* (M-D Brand, Part No. 01025 Recommended)
@@ -53,7 +53,9 @@ Exactly the same configuration as standard Voron panels, except with all the ben
 
 ## Per STL BOM (Ref. Full Part Descriptions Above):
 - *[a]hinge_frame_<SIZE>.stl*
-  - **4 Magnets, 3 Screws, 1 Hammerhead, 2 T-nuts**
+  - **4 Magnets, 3 Screws, 1 Hammerhead, 2 T-nuts/Springnuts**
+- *[a]hinge_frame_half_<SIZE>.stl*
+  - **4 Magnets, 2 Screws, 2 Hammerheads**
 - *[a]corner_frame_<SIZE>.stl*
   - **2 Magnets, 2 Screws, 2 Hammerheads**
 - *[a]side_frame_<SIZE>.stl*
@@ -87,7 +89,8 @@ All prints are designed to print to Voron Spec profiles. If you have warping iss
 
 ## For "All Doors":
 ### Print with top/vertical hole size:
-- **12x** *[a]hinge_frame_SIZE.stl*
+- **10x** *[a]hinge_frame_SIZE.stl*
+- **2x** *[a]hinge_frame_half_SIZE.stl* **(TODO: THIS STL DOES NOT EXIST YET!!!!)**
 - **12x** *hinge_panel_SIZE.stl*
 
 ### Print with bottom/horizontal hole size:
