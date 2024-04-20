@@ -140,8 +140,8 @@ Don't skimp on the VHB tape! When installed, press down extremely hard on the pa
 ## Provided is a direct link to the STL Placement Reference both on Tinkercad and GitHub. Both will show you the location of every STL in 3d space. *Note its not remotely to scale, that's why everything looks ridiculously cramped.*
 
 # View the Full Model STL Placement Reference on:
-# ![Uneditable, GitHub](Images/placement_reference.stl)
-# [Fully Editable, Tinkercad](https://www.tinkercad.com/things/gM3WwlMIWih-emp-stl-placement-reference)
+# ![Uneditable and Grey Scale, GitHub](Images/placement_reference.stl)
+# [Fully Editable and Color Coded, Tinkercad](https://www.tinkercad.com/things/gM3WwlMIWih-emp-stl-placement-reference)
 
 ![Tinkercad Reference](Images/Frame-STL-Placement-Reference.png)
 
