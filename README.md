@@ -27,7 +27,7 @@ Exactly the same configuration as standard Voron panels, except with all the ben
 - **236x** - *6x3mm Disc Magnets (Grade n52 Recommended)*
   - [Source: West3d](https://west3d.com/products/6mm-x-3mm-round-neomydium-magnets)
 - **89x** - *M3x8mm SHCS Screws*
-- **69x** - *Hammerheads, Roll In T-Nuts or Springnuts*, <sub><sup>nice</sup></sub>.
+- **69x** - *Hammerheads, Roll In T-Nuts or Springnuts*, <sub><sup>nice.</sup></sub>
 - **20x** - *Roll In T-Nuts or Springnuts (This is in addition to above)*
 - **Approx. 2 Meters / 6.7 Feet** - *0.4 Inch VHB Tape*
   - [Source: Lifetime Supply off Amazon](https://www.amazon.com/gp/product/B0CLV11RT9/)
