@@ -139,6 +139,8 @@ Don't skimp on the VHB tape! When installed, press down extremely hard on the pa
 
 ## Provided is a direct link to the STL Placement Reference both on Tinkercad and GitHub. Both will show you the location of every STL in 3d space. *Note its not remotely to scale, that's why everything looks ridiculously cramped.*
 
+# TODO: FIX REFERENCE STL ON GITHUB
+
 # View the Full Model STL Placement Reference on:
 # ![Uneditable and Grey Scale, GitHub](Images/placement_reference.stl)
 # [Fully Editable and Color Coded, Tinkercad](https://www.tinkercad.com/things/gM3WwlMIWih-emp-stl-placement-reference)
@@ -205,7 +207,7 @@ Done?
 - You can rearrange everything, adding or moving hinges and clips where you desire.
 
 # Mod Compatibility
-- This had not been tested with the [Clicky-Clack Fridge Door Mod](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door), but should theoretically work if you omit the side clips interfering with the Fridge Mod's hinge. There is a possability it may rub against the side panel. Please let me know if this is an issue!
+- This had not been tested with the [Clicky-Clack Fridge Door Mod](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door), but should theoretically work if you omit the side clips interfering with the Fridge Mod's hinge. There is a possibility it may rub against the side panel. Please let me know if this is an issue!
 - This should work with just about any mod that doesn't have an issue with the panels being pushed outwards about 6-8mm from the frame.
 
 # Coming Soon (Before full release)
