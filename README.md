@@ -72,20 +72,18 @@ Exactly the same configuration as standard Voron panels, except with all the ben
 # The Magnet Tolerance Test:
 ## (Don't skip!!)
 
-Print one magnet_test.stl for every filament you plan to use for this mod, some filaments behave very surprisingly differently!
-
-You are looking for a "snug" but not "tight" fit. You should be able to start the magnets with your hands and some pressure. You **do not** need to seat them all the way down at this step, as long as you can push them in flush with your hands, and they stay snug, you're good. If you can't seat them all the way down into the hole with your hands, that's ok.
+Print one magnet_test.stl for every filament you plan to use for this mod, some filaments behave surprisingly differently!
 
 ![Magnet Test](Images/Magnet-Test.png)
 
-The fastest way to find the correct holes is to start by inserting a magnet into the *largest* bottom hole (L), if the magnet falls in or can be yanked back out with another magnet, try the next smallest hole. The goal is to find one you can shove most of the way in with your hands and can't be yanked back out with another magnet.
+You are looking for a "snug" but not "tight" fit. You should be able to start the magnets with your hands and some pressure. You **do not** need to seat them all the way down at this step. The fastest way to find the correct holes is to start by inserting a magnet into the *largest* bottom hole (L), if the magnet falls in or can be yanked back out with another magnet, try the next smallest hole. The goal is to find one you can shove part of the way in with your hands and can't be yanked back out with another magnet.
 
 Repeat the same steps on the top/vertical holes. An ideal situation is you pick both the same size holes for the top and bottom. But due to print orientation and everyone's printer being just a little different, you may find yourself needing to go up or down a size on the vertical holes.
 
 # STL Print Requirements:
 After selecting the hole size, now it's time to print the STLs! Select the set of parts that match the hole size you've selected. The top/vertical holes are for the hinges, the horizontal holes were for all other parts.
 
-All prints are designed to print to Voron Spec profiles. If you have warping issues, these parts need very little cooling, all of mine were printed with only about a 5% fan speed on a Stealthburner.
+All prints are designed to print to Voron Spec profiles. If you have warping issues, these parts need very little cooling, all of mine were printed with only about a 5% fan speed on a Stealthburner/G2E/Revo setup. I also ran some experiments and found all the parts can be printed with no cooling what so ever, but YMMV.
 
 ## For "All Doors":
 ### Print with top/vertical hole size:
@@ -117,7 +115,7 @@ All prints are designed to print to Voron Spec profiles. If you have warping iss
 ## Magnets
 First step is to insert all of the magnets into all of the STLs. It's very important to get the polarity correct. Be aware of the orientation of the parts in the example images.
 
-I've found the best method to insert the magnets is to use hand push in the magnet until it's halfway in, and then use the head of an M3x14mm screw and attach it to the magnet, then lightly tap the magnet down in place with a hammer. It makes assembly go much faster. Just be sure to use a flat surface so you don't blow the magnet straight through the hole!
+I've found the best method to insert the magnets is to hand push in the magnet until it's halfway in, and then use the head of an M3x14mm screw and attach it to the magnet, then lightly tap the magnet down in place with a hammer. It makes assembly go much faster. Just be sure to use a flat surface so you don't blow the magnet straight through the hole!
 
 ![Magnet Test](Images/Magnets-1.png)
 ![Magnet Test](Images/Magnets-2.png)
@@ -138,6 +136,12 @@ Don't skimp on the VHB tape! When installed, press down extremely hard on the pa
 
 # Installation:
 Refer to the following images for clip placement on the various panels. Apply significant pressure to the tape to ensure it sticks. In my experience, the VHB tape may be a bit weak the first few days but should all hold together just fine.
+
+## Provided is a direct link to an Interactive Tinkercad model reference, that will show you the location of every STL. *(Note its not remotely to scale, thats why everything looks ridiculously cramped!)*
+
+# [Tinkercad STL Placement Reference](https://www.tinkercad.com/things/gM3WwlMIWih-emp-stl-placement-reference)
+
+![Tinkercad Reference](Images/Frame-STL-Placement-Reference.png)
 
 - corner_panel.stl are placed in the 4 corners.
 - side_panel.stl are placed on 3 of the 4 sides in the center.
@@ -184,7 +188,7 @@ Done?
 - You can rearrange everything, adding or moving hinges and clips where you desire.
 
 # Mod Compatibility
-- This had not been tested with the [Clicky-Clack Fridge Door Mod](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door), but should theoretically work if you omit the side clips interfering with the Fridge Mod's hinge.
+- This had not been tested with the [Clicky-Clack Fridge Door Mod](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door), but should theoretically work if you omit the side clips interfering with the Fridge Mod's hinge. There is a possability it may rub against the side panel. Please let me know if this is an issue!
 - This should work with just about any mod that doesn't have an issue with the panels being pushed outwards about 6-8mm from the frame.
 
 # Coming Soon (Before full release)
