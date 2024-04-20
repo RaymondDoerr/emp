@@ -133,17 +133,34 @@ Don't skimp on the VHB tape! When installed, press down extremely hard on the pa
 # **INCOMPLETE DOCS BELOW**
 # **INCOMPLETE DOCS BELOW**
 # **INCOMPLETE DOCS BELOW**
+## **ONLY REFERENCES "ALL-DOORS" AS OF READING THIS **
 
 # Installation:
-Refer to the following images for clip placement on the various panels. Apply significant pressure to the tape to ensure it sticks. In my experience, the VHB tape may be a bit weak the first few days but should all hold together just fine.
 
-## Provided is a direct link to an Interactive Tinkercad model reference, that will show you the location of every STL. *(Note its not remotely to scale, thats why everything looks ridiculously cramped!)*
+## Provided is a direct link to the STL Placement Reference both on Tinkercad and GitHub. Both will show you the location of every STL in 3d space. *Note its not remotely to scale, that's why everything looks ridiculously cramped.*
 
-# [Tinkercad STL Placement Reference](https://www.tinkercad.com/things/gM3WwlMIWih-emp-stl-placement-reference)
+# View the Full Model STL Placement Reference on:
+# ![Uneditable, GitHub](Images/placement_reference.stl)
+# [Fully Editable, Tinkercad](https://www.tinkercad.com/things/gM3WwlMIWih-emp-stl-placement-reference)
 
 ![Tinkercad Reference](Images/Frame-STL-Placement-Reference.png)
 
-- corner_panel.stl are placed in the 4 corners.
+Refer to the following images or the Tinkercad link above for clip placement on the various panels. Apply significant pressure to the tape to ensure it sticks. In my experience, the VHB tape may be a bit weak the first few days but should all hold together just fine. I like to occasionally revisit this and push the clips down a bit more as I work through the project just to make sure they're staying down.
+
+From here on out, all stl's names will be shortened for brevity.
+
+Left and Right Panels:
+- *corner_panel* are placed in the 4 corners of the panel.
+- *side_panel* are placed on the top, bottom and front sides of the panel, in the center.
+- *hinge_panel* are placed 10cm from the edge of the panel on the back side. 
+
+Left and Right Frames: (Same as above, just on the frames.)
+- *corner_frame* are placed in the 4 corners of the panel.
+- *side_frame* are placed on the top, bottom and front sides of the panel, in the center.
+- *hinge_frame* are placed 10cm from the edge of the panel on the back side. 
+
+Top Panel:
+- corner_panel.stl are placed in the 4 corners of the panel.
 - side_panel.stl are placed on 3 of the 4 sides in the center.
 - hinge_panel.stl are placed 10cm from the edge of the panel on one side. 
 
