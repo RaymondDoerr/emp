@@ -217,6 +217,11 @@ Done?
 - A magnetic door handle of some sort.
 - Small magnetic arms to prop doors open.
 
+# Real Life Install Photos
+![Panels On](Images/Panels-On.png)
+![Panels Open](Images/Panels-Open.png)
+![Panels Off](Images/Panels-Off.png)
+
 
 # Ignore below this line, I'm just too lazy to put notes anywhere else at the moment..
 
