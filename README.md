@@ -54,7 +54,7 @@ Exactly the same configuration as standard Voron panels, except with all the ben
 ## Per STL BOM (Ref. Full Part Descriptions Above):
 - *[a]hinge_frame_<SIZE>.stl*
   - **4 Magnets, 3 Screws, 1 Hammerhead, 2 T-nuts/Springnuts**
-- *[a]hinge_frame_half_<SIZE>.stl*
+- *[a]hinge_frame_bottom_<SIZE>.stl*
   - **4 Magnets, 2 Screws, 2 Hammerheads**
 - *[a]corner_frame_<SIZE>.stl*
   - **2 Magnets, 2 Screws, 2 Hammerheads**
@@ -90,7 +90,7 @@ All prints are designed to print to Voron Spec profiles. If you have warping iss
 ## For "All Doors":
 ### Print with top/vertical hole size:
 - **10x** *[a]hinge_frame_SIZE.stl*
-- **2x** *[a]hinge_frame_half_SIZE.stl* **(TODO: THIS STL DOES NOT EXIST YET!!!!)**
+- **2x** *[a]hinge_frame_bottom_SIZE.stl*
 - **12x** *hinge_panel_SIZE.stl*
 
 ### Print with bottom/horizontal hole size:
