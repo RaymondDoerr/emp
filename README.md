@@ -210,7 +210,7 @@ Done?
 - You can rearrange everything, adding or moving hinges and clips where you desire.
 
 # Mod Compatibility
-- This had not been tested with the [Clicky-Clack Fridge Door Mod](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door), but should theoretically work if you omit the side clips interfering with the Fridge Mod's hinge. There is a possibility it may rub against the side panel. Please let me know if this is an issue!
+- This has not been tested with the [Clicky-Clack Fridge Door Mod](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door), but should theoretically work if you omit the side clips interfering with the Fridge Mod's hinge. There is a possibility it may rub against the side panel. Please let me know if this is an issue!
 - This should work with just about any mod that doesn't have an issue with the panels being pushed outwards about 6-8mm from the frame.
 
 # Coming Soon (Before full release)
