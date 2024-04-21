@@ -218,9 +218,9 @@ Done?
 - Small magnetic arms to prop doors open.
 
 # Real Life Install Photos
-![Panels On](Images/Panels-On.png)
-![Panels Open](Images/Panels-Open.png)
-![Panels Off](Images/Panels-Off.png)
+![Panels On](Images/Panels-On.jpg)
+![Panels Open](Images/Panels-Open.jpg)
+![Panels Off](Images/Panels-Off.jpg)
 
 
 # Ignore below this line, I'm just too lazy to put notes anywhere else at the moment..
