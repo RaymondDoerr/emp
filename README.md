@@ -1,5 +1,4 @@
 # **EMP - The Excessively Magnetic Panel Mod**
-# **<WARNING: INCOMPLETE DOCS BELOW>**
 
 Jump to: 
 - [BOM and Tool List](#boms-and-tool-lists)
@@ -157,18 +156,15 @@ Don't skimp on the VHB tape! When installed, press down extremely hard on the pa
 
 ![Magnet Test](Images/VHB-Tape.png)
 
-# **INCOMPLETE DOCS BELOW**
-# **INCOMPLETE DOCS BELOW**
-# **INCOMPLETE DOCS BELOW**
-## **ONLY REFERENCES "ALL-DOORS" AS OF READING THIS **
 
 # Installation:
 
-## Provided is a direct link to the STL Placement Reference both on Tinkercad and GitHub. Both will show you the location of every STL in 3d space. *Note its not remotely to scale, that's why everything looks ridiculously cramped.*
+## **ONLY REFERENCES "ALL-DOORS" CURRENTLY. **
 
-# View the Full Model STL Placement Reference on:
-# [Fully Editable and Color Coded, Tinkercad](https://www.tinkercad.com/things/gM3WwlMIWih-emp-stl-placement-reference)
-# [Uneditable and Grey Scale, GitHub](Images/placement_reference.stl)
+## Provided is a direct link to the STL Placement Reference both on Tinkercad and GitHub. Both will show you the location of every STL in 3d space. *Note its not remotely to scale, that's why everything looks ridiculously cramped.*
+### View the Full Model STL Placement Reference on:
+### [Fully Editable and Color Coded, Tinkercad](https://www.tinkercad.com/things/gM3WwlMIWih-emp-stl-placement-reference)
+### [Uneditable and Grey Scale, GitHub](Images/placement_reference.stl)
 
 ![Tinkercad Reference](Images/Frame-STL-Placement-Reference.png)
 
