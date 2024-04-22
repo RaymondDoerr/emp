@@ -85,6 +85,20 @@ You are looking for a "snug" but not "tight" fit. You should be able to start th
 
 Repeat the same steps on the top/vertical holes. An ideal situation is you pick both the same size holes for the top and bottom. But due to print orientation and everyone's printer being just a little different, you may find yourself needing to go up or down a size on the vertical holes.
 
+The sizes of the holes are as follows:
+- XS
+  - Horizontal: 6.0mm
+  - Vertical: 5.9mm
+- S
+  - Horizontal: 6.1mm
+  - Vertical: 6.0mm
+- M (This is what I use)
+  - Horizontal: 6.2mm
+  - Vertical: 6.1mm
+- L 
+  - Horizontal: 6.3mm
+  - Vertical: 6.2mm
+
 # STL Print Requirements:
 After selecting the hole size, now it's time to print the STLs! Select the set of parts that match the hole size you've selected. The top/vertical holes are for the hinges, the horizontal holes were for all other parts.
 
