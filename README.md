@@ -2,7 +2,7 @@
 # **<WARNING: INCOMPLETE DOCS BELOW>**
 
 # Quick Youtube Demo:
-[![Demo Video](Images\Video-Thumb.png)](https://youtu.be/oXtChmSKKyE)
+[![Demo Video](Images/Video-Thumb.png)](https://youtu.be/oXtChmSKKyE)
 
 ## Description:
 This mod converts every panel on the Voron to a well sealed, removable magnetic doors with all-magnetic >180° (Closer to 200°) degree hinges. All panels function as doors and are removable with no hardware what so ever, just yank 'em out!
