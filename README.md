@@ -1,6 +1,8 @@
 # **EMP - The Excessively Magnetic Panel Mod**
 # **<WARNING: INCOMPLETE DOCS BELOW>**
 
+[First Install Demo](https://www.youtube.com/watch?v=oXtChmSKKyE)
+
 ## Description:
 This mod converts every panel on the Voron to a well sealed, removable magnetic doors with all-magnetic >180° (Closer to 200°) degree hinges. All panels function as doors and are removable with no hardware what so ever, just yank 'em out!
 
