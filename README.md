@@ -1,6 +1,7 @@
 # **EMP - The Excessively Magnetic Panel Mod**
 # **<WARNING: INCOMPLETE DOCS BELOW>**
 
+# Quick Youtube Demo:
 [![Demo Video](https://img.youtube.com/vi/oXtChmSKKyE/maxresdefault.jpg)](https://youtu.be/oXtChmSKKyE)
 
 ## Description:
