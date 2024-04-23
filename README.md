@@ -210,59 +210,51 @@ When installing the frame STLs, install them loose initially (just tight enough 
 - hinge_panel.stl are placed 10cm from the edge of the panel on the left side. 
 - door_clip_1.stl is placed on the bottom right corner.
 - door_clip_2.stl is placed on the top right corner.
+- Loosely install corner_frame, side_frame (for door_clip_1 and 2) and hinge_frame STL files in the same locations as above, but on the extrusions the doors will attach to.
 
 ### Front Doors (Right):
 - corner_panel.stl are placed in the right 2 corners.
 - hinge_panel.stl are placed 10cm from the edge of the panel on the right side. 
 - door_clip_1.stl is placed on the top left corner.
 - door_clip_2.stl is placed on the bottom left corner.
-
-- Loosely install corner_frame, side_frame (for door_clip_1 and 2) and hinge_frame STL files in the same locations as above for both doors, but on the extrusions the doors will attach to.
+- Loosely install corner_frame, side_frame (for door_clip_1 and 2) and hinge_frame STL files in the same locations as above, but on the extrusions the doors will attach to.
 
 ![Front Doors Inner](Images/frontDoorsInner.png)
 ![Front Doors Outer](Images/frontDoorsOuter.png)
 
+## Attaching to extrusions
 
+- Place one panel at a time on the extrusions and attach them to the loosened frame clips.
+- Doublecheck all _frame STLs are magnetically connected to all of the _panel STLs.
+- **With the panel installed and attached to the magnets**, tighten the _frame.stl parts **through** the _panel.stls with the guide holes provided. Use your hands to hold the _frame.stl and _panel.stl flush with eachother while tightening for better alignment.
+- Anywhere there is a hinge, you may not install the Slide in T-nut or Spring nuts and slide them under the STL and tighten them down.
+- Repeat until all panels are fulled installed.
 
+**TODO: !!!Images/Reference Here!!!**
 
-
-
-
-
-Slide/place the side_frame.stl and hinge_frame.stl parts under their respective _panel. You may have to loosen them a tad if you used hammerheads.
-
-**With the panel installed and attached to the magnets**, tighten the _frame.stl parts **through** the _panel.stls with the guide holes provided. Use your hands to hold the _frame.stl and _panel.stl flush with eachother while tightening for better alignment.
-
-**Image Here**
-
-Install the T-Nuts for the hinges and slide them under hinge_frame.stl
-
-**Image Here**
 
 The weatherseal is placed on last so you don't accidentally tear it while installing the frame STLs, if want the weatherseal placed flush along the inner side of the extrusion. If you purchased the same brand I did, many times the adhesive isn't aligned, use this to your advantage so you don't have any exposed adhesive.
 
-**Images here**
+**TODO: !!!Images/Reference Here!!!**
 
-Installation should be complete at this point. This is where you'll need to look at the overall fit and finish, verify everything looks nice and lined up and even when the doors/panels are installed/closed.
+Installation should be complete at this point. This is where you'll need to look at the overall fit and finish, verify everything looks nice and lined up and even when the doors/panels are installed/closed. 
 
-Be gentle with the hinges for a few days while the VHB tape settles (ie; don't leave them hanging open on their own weight overnight). I like to give the clips a good squish against the panel here and there as I'm working with the printer, just to be sure.
+Be gentle with the hinges for a few days while the VHB tape settles (ie; don't leave them hanging open on their own weight overnight). I like to give the clips a good squish against the panel here and there as I'm working with the printer, just to be sure. 
 
-If you have serious issues with the VHB tape holding to the parts post install, there's a few things you can try:
+### If you have serious issues with the VHB tape holding to the parts post install, there's a few things you can try:
 - Lightly sand the clips and replace new tape. Ironically a really well tuned printer with a really good top layer will have less adhesion with the tape. So grats on a good top layer if this is you!
 - If all else fails and you're working with a filament that just won't stick to the tape no matter what you do, a **very** thin layer of super glue between the tape and panel clips will perma-bond it forever. **Just be extremely careful not to get it on your panels, it'll ruin them!!!**. If you must do this, I recommend applying the glue to the clip/tape and letting it fully dry before reattaching them to the panels to avoid any superglue leaking on to the panel. Ideally, no one should have to use glue. But with 10,000,000 brands of ABS and ASA out there, some may just be more stubborn than others.
 
-Done?
-
-
-# Optional
+# Notes and Supplemental Data
+### Tips
 - All _panel STL files, except the hinges, can have an additional magnet added if you want to go overkill with magnet strength. Note that this will add an enormous amount of extra magnets (Roughly 25-30% more) to the BOM.
 - You can rearrange everything, adding or moving hinges and clips where you desire.
 
-# Mod Compatibility
+### Mod Compatibility
 - This has not been tested with the [Clicky-Clack Fridge Door Mod](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door), but should theoretically work if you omit the side clips interfering with the Fridge Mod's hinge. There is a possibility it may rub against the side panel. Please let me know if this is an issue!
 - This should work with just about any mod that doesn't have an issue with the panels being pushed outwards about 6-8mm from the frame.
 
-# Coming Soon (Before full release)
+### Coming Soon (Before full release)
 - A magnetic door handle of some sort.
 - Small magnetic arms to prop doors open.
 
@@ -270,42 +262,3 @@ Done?
 ![Panels On](Images/Panels-On.jpg)
 ![Panels Open](Images/Panels-Open.jpg)
 ![Panels Off](Images/Panels-Off.jpg)
-
-
-# Ignore below this line, I'm just too lazy to put notes anywhere else at the moment..
-
-### Per STL breakdown for All Doors:
-- [a]hinge_frame_<SIZE>.stl
-  - 48 Magnets, 36 Screws, 12 Hammerhead, 24 T-nuts
-- [a]corner_clip_frame_<SIZE>.stl
-  - 40 Magnets, 40 Screws, 40 Hammerheads
-- [a]side_clip_frame_<SIZE>.stl
-  - 30 Magnets, 15 Screw, 15 Hammerhead
-- hinge_panel_<SIZE>.stl
-  - 48 Magnets, 480mm VHB tape
-- door_clip_1_<SIZE>.stl
-  - 4 Magnets, 40mm VHB tape
-- door_clip_2_<SIZE>.stl
-  - 4 Magnets, 40mm VHB tape
-- corner_clip_panel_<SIZE>.stl
-  - 40 Magnets, 1200mm VHB tape
-- side_clip_panel_<SIZE>.stl
-  - 22 Magnets, 220mm VHB tape
-  
-### Per STL breakdown for Voron Spec:
-- [a]hinge_frame_<SIZE>.stl
-  - 16 Magnets, 12 Screws, 4 Hammerhead, 8 T-nuts
-- [a]corner_clip_frame_<SIZE>.stl
-  - 40 Magnets, 40 Screws, 40 Hammerheads
-- [a]side_clip_frame_<SIZE>.stl
-  - 38 Magnets, 19 Screw, 19 Hammerhead 
-- hinge_panel_<SIZE>.stl
-  - 16 Magnets, 160mm VHB tape
-- door_clip_1_<SIZE>.stl
-  - 4 Magnets, 40mm VHB tape
-- door_clip_2_<SIZE>.stl
-  - 4 Magnets, 40mm VHB tape
-- corner_clip_panel_<SIZE>.stl
-  - 40 Magnets, 1200mm VHB tape
-- side_clip_panel_<SIZE>.stl
-  - 30 Magnets, 300mm VHB tape

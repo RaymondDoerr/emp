@@ -56,3 +56,41 @@
   - **2 Magnets, 60mm VHB tape**
 - *side_panel_<SIZE>.stl*
   - **2 Magnets, 20mm VHB tape**
+  
+# Ignore below this line, I'm just too lazy to put notes anywhere else at the moment..
+
+### Per STL breakdown for All Doors:
+- [a]hinge_frame_<SIZE>.stl
+  - 48 Magnets, 36 Screws, 12 Hammerhead, 24 T-nuts
+- [a]corner_clip_frame_<SIZE>.stl
+  - 40 Magnets, 40 Screws, 40 Hammerheads
+- [a]side_clip_frame_<SIZE>.stl
+  - 30 Magnets, 15 Screw, 15 Hammerhead
+- hinge_panel_<SIZE>.stl
+  - 48 Magnets, 480mm VHB tape
+- door_clip_1_<SIZE>.stl
+  - 4 Magnets, 40mm VHB tape
+- door_clip_2_<SIZE>.stl
+  - 4 Magnets, 40mm VHB tape
+- corner_clip_panel_<SIZE>.stl
+  - 40 Magnets, 1200mm VHB tape
+- side_clip_panel_<SIZE>.stl
+  - 22 Magnets, 220mm VHB tape
+  
+### Per STL breakdown for Voron Spec:
+- [a]hinge_frame_<SIZE>.stl
+  - 16 Magnets, 12 Screws, 4 Hammerhead, 8 T-nuts
+- [a]corner_clip_frame_<SIZE>.stl
+  - 40 Magnets, 40 Screws, 40 Hammerheads
+- [a]side_clip_frame_<SIZE>.stl
+  - 38 Magnets, 19 Screw, 19 Hammerhead 
+- hinge_panel_<SIZE>.stl
+  - 16 Magnets, 160mm VHB tape
+- door_clip_1_<SIZE>.stl
+  - 4 Magnets, 40mm VHB tape
+- door_clip_2_<SIZE>.stl
+  - 4 Magnets, 40mm VHB tape
+- corner_clip_panel_<SIZE>.stl
+  - 40 Magnets, 1200mm VHB tape
+- side_clip_panel_<SIZE>.stl
+  - 30 Magnets, 300mm VHB tape
