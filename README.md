@@ -249,18 +249,20 @@ When installing the frame STLs, install them loose initially (just tight enough 
 ![Guide Holes 1](Images/guideHoles1.png)
 ![Guide Holes 2](Images/guideHoles2.png)
 
-- Anywhere there is a hinge, you may now install the Slide in T-nut or Spring nuts and slide them under the STL and tighten them down.
+- Anywhere there is a hinge, you may now install the Slide in T-nut or Spring nuts and slide them under the STL and tighten down the screws.
 
 ![Slide In T-Nuts 1](Images/slideInTNuts1.png)
 ![Slide In T-Nuts 2](Images/slideInTNuts2.png)
 ![Slide In T-Nuts 3](Images/slideInTNuts3.png)
+![Slide In T-Nuts 4](Images/slideInTNuts4.png)
 
 - Repeat until all panels are fulled installed.
 
 ## Installing The Weatherseal (Docs incomplete)
-The weatherseal is placed on last so you don't accidentally tear it while installing the frame STLs, if want the weatherseal placed flush along the inner side of the extrusion. If you purchased the same brand I did, many times the adhesive isn't aligned, use this to your advantage so you don't have any exposed adhesive.
+The weatherseal is placed on last so you don't accidentally tear it while installing the frame STLs, you want the weatherseal placed flush along the inner side of the extrusion. If you purchased the same brand I did, many times the adhesive isn't aligned, use this to your advantage so you don't have any exposed adhesive.
 
-**TODO: !!!Images/Reference Here!!!**
+![Seal Placement 1](Images/sealPlacement1.png)
+![Seal Placement 2](Images/sealPlacement2.png)
 
 Installation should be complete at this point. This is where you'll need to look at the overall fit and finish, verify everything looks nice and lined up and even when the doors/panels are installed/closed. 
 
