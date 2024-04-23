@@ -5,7 +5,7 @@ Jump to:
 - [Magnet Tolerance Test](#the-magnet-tolerance-test)
 - [STL Print Requirements](#stl-print-requirements)
 - [Assembly](#assembly)
-- [Installation](#installation) (Incomplete)
+- [Installation](#installation)
 
 ## Description:
 This mod converts every panel on the Voron to a well sealed, removable magnetic doors with all-magnetic >180° (Closer to 200°) degree hinges. All panels function as doors and are removable with no hardware what so ever, just yank 'em out!
