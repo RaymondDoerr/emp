@@ -10,6 +10,25 @@ Jump to:
 ## Description:
 This mod converts every panel on the Voron to a well sealed, removable magnetic doors with all-magnetic >180° (Closer to 200°) degree hinges. All panels function as doors and are removable with no hardware what so ever, just yank 'em out!
 
+### Pros:
+- You can remove and reinstall all the panels in under a minute.
+- Converts all 5 panels into doors with magnetic "no hardware" hinges.
+- No-Glue design.
+- Magnets are designed to pull into their print rather than out. So no popped out magnets!
+- Provides a good chamber seal with a seal thats easy to inspect and look for gaps/flaws.
+- Extremely customizable, install the mod on all the panels, only the doors, just the top, whatever you want.
+- Mix and match, you can convert everything into doors (or not).
+- Pulls the panels 6mm out from the extrusions, meaning less of a chance the cable chains, hot end, wiring and other parts hit your panels and scratch them.
+
+### Cons:
+- VHB tape. (Better than drilling holes I guess?)
+- Requires a *ton* of magnets. (Approx. 188 to 236)
+- While the hinges work well, they can sometimes sag a bit on the side panels just due to the overall weight. But this is just cosmetic.
+- Early days of the install you may get annoyed at panel clips popping off the VHB tape. Although this is the same problem the standard Voron doors have.
+- Easy install, but tedious due to so many little parts.
+- The Weather seal used is a bit expensive, and not a standard Voron BOM part. (See [BOM and Tool List](#boms-and-tool-lists) for sources)
+- Pulling the panels 6mm out from the extrusions is also a con. There's a possibility this may interfere with some mods that expect the standard Voron doors.
+
 ### Quick Youtube Demo:
 [![Demo Video](Images/videoThumb.png)](https://youtu.be/oXtChmSKKyE)
 
@@ -241,14 +260,15 @@ Installation should be complete at this point. This is where you'll need to look
 
 Be gentle with the hinges for a few days while the VHB tape settles (ie; don't leave them hanging open on their own weight overnight). I like to give the clips a good squish against the panel here and there as I'm working with the printer, just to be sure. 
 
-### If you have serious issues with the VHB tape holding to the parts post install, there's a few things you can try:
-- Lightly sand the clips and replace new tape. Ironically a really well tuned printer with a really good top layer will have less adhesion with the tape. So grats on a good top layer if this is you!
+### If you have serious issues with the VHB tape holding to the printed parts post install, there's a couple things you can try:
+- Try sanding or scratching up the surface of the clip, it will help the VHB tape grab.
 - If all else fails and you're working with a filament that just won't stick to the tape no matter what you do, a **very** thin layer of super glue between the tape and panel clips will perma-bond it forever. **Just be extremely careful not to get it on your panels, it'll ruin them!!!**. If you must do this, I recommend applying the glue to the clip/tape and letting it fully dry before reattaching them to the panels to avoid any superglue leaking on to the panel. Ideally, no one should have to use glue. But with 10,000,000 brands of ABS and ASA out there, some may just be more stubborn than others.
 
 # Notes and Supplemental Data
 ### Tips
 - All _panel STL files, except the hinges, can have an additional magnet added if you want to go overkill with magnet strength. Note that this will add an enormous amount of extra magnets (Roughly 25-30% more) to the BOM.
-- You can rearrange everything, adding or moving hinges and clips where you desire.
+- You can rearrange everything, adding or moving hinges and clips where you desire. 
+- If you're having issues with the front doors closing (ie; hitting eachother) check to make sure clip_1 and _2 are not overlapping the edge of the panel. Also sometimes just fiddling with the hinges can improve fit and finish.
 
 ### Mod Compatibility
 - This has not been tested with the [Clicky-Clack Fridge Door Mod](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door), but should theoretically work if you omit the side clips interfering with the Fridge Mod's hinge. There is a possibility it may rub against the side panel. Please let me know if this is an issue!
