@@ -29,7 +29,7 @@ This mod converts every panel on the Voron to a well sealed, removable magnetic 
 - Early days of the install you may get annoyed at panel clips popping off the VHB tape. Although this is the same problem the standard Voron doors have.
 - Easy install, but tedious due to so many little parts.
 - The Weather seal used is a bit expensive, and not a standard Voron BOM part. (See [BOM and Tool List](#boms-and-tool-lists) for sources)
-- Pulling the panels 6mm out from the extrusions has a possibility of interfering with some mods that expect the standard Voron doors.
+- Pulling the panels 6mm out from the extrusions has a possibility of interfering with some mods that expect the standard Voron doors and panels.
 
 There are 2 variants of this panel mod:
 
@@ -37,7 +37,7 @@ There are 2 variants of this panel mod:
 This is the intended original design. Requires more magnets and hardware, but allows you to open every single panel on your Voron (including the back and top!) like a hinged door or just yank them all off with no hardware.
 
 ### "Voron Spec"
-Exactly the same configuration as standard Voron panels, except with all the benefits of the magnet panels and hinges. This mod was designed with "All Doors" in mind, but for users who don't need this functionality, using the "Voron Spec" configuration will save you a ton of hardware and simplify installation.
+Exactly the same configuration as standard Voron panels, except with all the benefits of the magnet panels and hinges. This mod was designed with "All Doors" in mind, but for users who don't want this functionality, using the "Voron Spec" configuration will save you a ton of hardware and simplify installation while still allowing you to yank off all the panels in under 30 seconds.
 
 # BOMs and Tool Lists:
 
@@ -77,7 +77,19 @@ Exactly the same configuration as standard Voron panels, except with all the ben
   - [U.S. Source: Home Depot](https://www.homedepot.com/p/M-D-Building-Products-17-ft-Black-Small-Rubber-Auto-Marine-Weatherseal-for-All-Climates-01025/202066509) - 2 Packages.
   - [U.S. Source: Ace Hardware](https://www.acehardware.com/departments/building-supplies/weather-stripping-and-window-film/weather-stripping/5315445) - 2 Packages.
   - [U.S. Source: Lowes](https://www.lowes.com/pd/M-D-17-ft-x-11-32-in-Black-Rubber-Foam-Window-Weatherstrip/1038915) - 2 Packages.
-
+  
+## Per Panel BOM (Ref. Full Part Descriptions Above):
+- *Front Door* (Left and Right, **Config as Door**)
+  - **32 Magnets, 12 Screws, 8 Hammerhead, 4 T-nuts/Springnuts**
+- *Side and Top Panels* (**Config as Door**)
+  - **44 Magnets, 17 Screws, 13 Hammerheads, 4 T-nuts/Springnuts**
+- *Side and Top Panels* (**Config as Panel**)
+  - **32 Magnets, 12 Screws, 12 Hammerheads**
+- *Back Panel* (**As Door**)
+  - **40 Magnets, 16 Screws, 12 Hammerheads, 4 T-nuts/Springnuts**
+- *Back Panel* (**As Panel**)
+  - **28 Magnets, 12 Screws, 12 Hammerheads**
+  
 ## Per STL BOM (Ref. Full Part Descriptions Above):
 - *[a]hinge_frame_<SIZE>.stl*
   - **4 Magnets, 3 Screws, 1 Hammerhead, 2 T-nuts/Springnuts**
@@ -97,7 +109,7 @@ Exactly the same configuration as standard Voron panels, except with all the ben
   - **2 Magnets, 60mm VHB tape**
 - *side_panel_<SIZE>.stl*
   - **2 Magnets, 20mm VHB tape**
-
+  
 # The Magnet Tolerance Test:
 ## (Don't skip!!)
 
