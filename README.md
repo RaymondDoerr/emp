@@ -171,10 +171,9 @@ You may preload all the hardware **EXCEPT FOR** the T-nuts noted in red. These m
 ![Magnet Test](Images/hardware.png)
 
 ## VHB Tape
-Don't skimp on the VHB tape! When installed, press down extremely hard on the panels. VHB tape sticks better over time, but initially is can be somewhat weak, and the larger panels may try to pop off the first couple days.
+Don't skimp on the VHB tape! When installed, press down hard on the tape to get a better bond to the clips.
 
 ![Magnet Test](Images/VHBTape.png)
-
 
 # Installation:
 
