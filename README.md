@@ -271,8 +271,10 @@ When installing the frame STLs, install them loose initially (just tight enough 
 
 - Repeat until all panels are fulled installed.
 
-## Installing The Weatherseal (Docs incomplete)
-The weatherseal is placed on last so you don't accidentally tear it while installing the frame STLs, you want the weatherseal placed flush along the inner side of the extrusion. If you purchased the same brand I did, many times the adhesive isn't aligned, use this to your advantage so you don't have any exposed adhesive.
+## Installing The Weather Seal
+The weather seal is placed on last so you don't accidentally tear it while installing the frame STLs, you want the weather seal placed flush along the inner side of the extrusion. If you purchased the same brand I did, many times the adhesive isn't aligned, use this to your advantage so you don't have any exposed adhesive on the frame.
+
+You **can** place the weather seal on the panel side instead, but you may have issues with the seal pinching against some of the magnetic clips occasionally. Try to put the foam 1-2mm back from the outer edge of the panel to help prevent this.
 
 ![Seal Placement 1](Images/sealPlacement1.png)
 ![Seal Placement 2](Images/sealPlacement2.png)
@@ -283,13 +285,16 @@ Be gentle with the hinges for a few days while the VHB tape settles (ie; don't l
 
 ### If you have serious issues with the VHB tape holding to the printed parts post install, there's a couple things you can try:
 - Try sanding or scratching up the surface of the clip, it will help the VHB tape grab.
-- If all else fails and you're working with a filament that just won't stick to the tape no matter what you do, a **very** thin layer of super glue between the tape and panel clips will perma-bond it forever. **Just be extremely careful not to get it on your panels, it'll ruin them!!!** If you must do this, I recommend applying the glue to the clip/tape and letting it fully dry before reattaching them to the panels to avoid any superglue leaking on to the panel. Ideally, no one should have to use glue. But with 10,000,000 brands of ABS and ASA out there, some may just be more stubborn than others.
+- If all else fails and you're working with a filament that just won't stick to the tape no matter what you do, a **very** thin layer of super glue between the tape and panel clips will perma-bond it forever. **Just be extremely careful not to get it on your panels, it'll ruin them!!!** If you must do this, I recommend applying the glue to the clip/tape and letting it fully dry before reattaching them to the panels to avoid any superglue leaking on to the panel. Ideally, no one should have to use glue for anything in this mod. But with 10,000,000 brands of ABS and ASA out there, some may just be more stubborn than others.
 
 # Notes and Supplemental Data
 ### Tips
 - All _panel STL files, except the hinges, can have an additional magnet added if you want to go overkill with magnet strength. Note that this will add an enormous amount of extra magnets (Roughly 25-30% more) to the BOM.
 - You can rearrange everything, adding or moving hinges and clips where you desire. 
 - If you're having issues with the front doors closing (ie; hitting eachother) check to make sure clip_1 and _2 are not overlapping the edge of the panel. Also sometimes just fiddling with the hinges can improve fit and finish.
+- The corner_panel/frame STLs on the front doors are technically optional. They're more for ascetics than functionality.
+- You can remove 1 magnet from each door_clip_1 and door_clip_2 if you find the front door too strong to open. (Or just use weaker magnets if you have them.)
+- You can also remove almost all the side_panel/frame STLs from the entire build, although you may want to double-up on magnets in the corner_panel STLs if it makes the panel too weak. 
 
 ### Mod Compatibility
 - This has not been tested with the [Clicky-Clack Fridge Door Mod](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door), but should theoretically work if you omit the side clips interfering with the Fridge Mod's hinge. There is a possibility it may rub against the side panel. Please let me know if this is an issue!
