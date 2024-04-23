@@ -245,11 +245,19 @@ When installing the frame STLs, install them loose initially (just tight enough 
 - Place one panel at a time on the extrusions and attach them to the loosened frame clips.
 - Doublecheck all _frame STLs are magnetically connected to all of the _panel STLs.
 - **With the panel installed and attached to the magnets**, tighten the _frame.stl parts **through** the _panel.stls with the guide holes provided. Use your hands to hold the _frame.stl and _panel.stl flush with eachother while tightening for better alignment.
-- Anywhere there is a hinge, you may not install the Slide in T-nut or Spring nuts and slide them under the STL and tighten them down.
+
+![Guide Holes 1](Images/guideHoles1.png)
+![Guide Holes 2](Images/guideHoles2.png)
+
+- Anywhere there is a hinge, you may now install the Slide in T-nut or Spring nuts and slide them under the STL and tighten them down.
+
+![Slide In T-Nuts 1](Images/slideInTNuts1.png)
+![Slide In T-Nuts 2](Images/slideInTNuts2.png)
+![Slide In T-Nuts 3](Images/slideInTNuts3.png)
+
 - Repeat until all panels are fulled installed.
 
-**TODO: !!!Images/Reference Here!!!**
-
+## Installing The Weatherseal (Docs incomplete)
 The weatherseal is placed on last so you don't accidentally tear it while installing the frame STLs, if want the weatherseal placed flush along the inner side of the extrusion. If you purchased the same brand I did, many times the adhesive isn't aligned, use this to your advantage so you don't have any exposed adhesive.
 
 **TODO: !!!Images/Reference Here!!!**
@@ -260,7 +268,7 @@ Be gentle with the hinges for a few days while the VHB tape settles (ie; don't l
 
 ### If you have serious issues with the VHB tape holding to the printed parts post install, there's a couple things you can try:
 - Try sanding or scratching up the surface of the clip, it will help the VHB tape grab.
-- If all else fails and you're working with a filament that just won't stick to the tape no matter what you do, a **very** thin layer of super glue between the tape and panel clips will perma-bond it forever. **Just be extremely careful not to get it on your panels, it'll ruin them!!!**. If you must do this, I recommend applying the glue to the clip/tape and letting it fully dry before reattaching them to the panels to avoid any superglue leaking on to the panel. Ideally, no one should have to use glue. But with 10,000,000 brands of ABS and ASA out there, some may just be more stubborn than others.
+- If all else fails and you're working with a filament that just won't stick to the tape no matter what you do, a **very** thin layer of super glue between the tape and panel clips will perma-bond it forever. **Just be extremely careful not to get it on your panels, it'll ruin them!!!** If you must do this, I recommend applying the glue to the clip/tape and letting it fully dry before reattaching them to the panels to avoid any superglue leaking on to the panel. Ideally, no one should have to use glue. But with 10,000,000 brands of ABS and ASA out there, some may just be more stubborn than others.
 
 # Notes and Supplemental Data
 ### Tips
