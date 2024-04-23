@@ -19,9 +19,8 @@ This mod converts every panel on the Voron to a well sealed, removable magnetic 
 - No-Glue design.
 - Magnets are designed to pull into their print rather than out. So no popped out magnets!
 - Provides a good chamber seal with a seal thats easy to inspect and look for gaps/flaws.
-- Extremely customizable, install the mod on all the panels, only the doors, just the top, whatever you want.
-- Mix and match, you can convert everything into doors (or not).
-- Pulls the panels 6mm out from the extrusions, meaning less of a chance the cable chains, hot end, wiring and other parts hit your panels and scratch them.
+- Extremely customizable, install the mod on all the panels, only the doors, just the top, whatever you want. Mix and match!
+- Pulls the panels 6mm out from the extrusions, meaning less of a chance the cable chains, hot end, wiring and other parts hitting your panels and scratch them.
 
 ### Cons:
 - VHB tape. (Better than drilling holes I guess?)
