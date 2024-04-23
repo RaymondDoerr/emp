@@ -191,8 +191,9 @@ Don't skimp on the VHB tape! When installed, press down hard on the tape to get 
 ## **INSTALL GUIDE ASSUMES "ALL-DOORS" CONFIGURATION. **
 ### If you're doing the "Voron Spec" configuration the install guide still applies, **but** you need to supplement the 2x hinges on each panel with 1x side clips, effectively making all 4 sides of the panel symmetrical. All other steps are identical.
 
-## Provided is a direct link to the STL Placement Reference both on Tinkercad and GitHub. Both will show you the location of every STL in 3d space. *Note its not remotely to scale, that's why everything looks ridiculously cramped.*
-### View the Full Model STL Placement Reference on:
+### Provided is a direct link to the STL Placement Reference both on Tinkercad and GitHub. Both will show you the location of every STL in 3d space. *Note its not remotely to scale, that's why everything looks ridiculously cramped.*
+
+## View the Full Model STL Placement Reference on:
 ### [Fully Editable and Color Coded, Tinkercad](https://www.tinkercad.com/things/gM3WwlMIWih-emp-stl-placement-reference)
 ### [Uneditable and Grey Scale, GitHub](Images/placementReference.stl)
 
