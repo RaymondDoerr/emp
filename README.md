@@ -250,7 +250,6 @@ When installing the frame STLs, install them loose initially (just tight enough 
 
 **TODO: !!!Images/Reference Here!!!**
 
-
 The weatherseal is placed on last so you don't accidentally tear it while installing the frame STLs, if want the weatherseal placed flush along the inner side of the extrusion. If you purchased the same brand I did, many times the adhesive isn't aligned, use this to your advantage so you don't have any exposed adhesive.
 
 **TODO: !!!Images/Reference Here!!!**
@@ -278,6 +277,6 @@ Be gentle with the hinges for a few days while the VHB tape settles (ie; don't l
 - Small magnetic arms to prop doors open.
 
 # Real Life Install Photos
-![Panels On](Images/Panels-On.jpg)
-![Panels Open](Images/Panels-Open.jpg)
-![Panels Off](Images/Panels-Off.jpg)
+![Panels On](Images/panelsOn.jpg)
+![Panels Open](Images/panelsOpen.jpg)
+![Panels Off](Images/panelsOff.jpg)
