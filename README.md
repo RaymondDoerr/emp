@@ -279,12 +279,13 @@ You **can** place the weather seal on the panel side instead, but you may have i
 ![Seal Placement 1](Images/sealPlacement1.png)
 ![Seal Placement 2](Images/sealPlacement2.png)
 
-Installation should be complete at this point. This is where you'll need to look at the overall fit and finish, verify everything looks nice and lined up and even when the doors/panels are installed/closed. 
+Installation should be complete at this point. This is where you'll need to look at the overall fit and finish, verify everything looks nice, lined up and even when the doors/panels are installed/closed. 
 
-Be gentle with the hinges for a few days while the VHB tape settles (ie; don't leave them hanging open on their own weight overnight). I like to give the clips a good squish against the panel here and there as I'm working with the printer, just to be sure. 
+Be gentle with the hinges for a few days while the VHB tape settles (ie; don't leave them hanging open on their own weight overnight). I like to give the clips a good squish against the panel here and there as I'm working with the printer, just to be sure.
 
-### If you have serious issues with the VHB tape holding to the printed parts post install, there's a couple things you can try:
+### If you have serious issues with the VHB tape holding to the printed parts post install, there's a few things you can try:
 - Try sanding or scratching up the surface of the clip, it will help the VHB tape grab.
+- Use something heavy (books, etc) and press the panels into the clips overnight.
 - If all else fails and you're working with a filament that just won't stick to the tape no matter what you do, a **very** thin layer of super glue between the tape and panel clips will perma-bond it forever. **Just be extremely careful not to get it on your panels, it'll ruin them!!!** If you must do this, I recommend applying the glue to the clip/tape and letting it fully dry before reattaching them to the panels to avoid any superglue leaking on to the panel. Ideally, no one should have to use glue for anything in this mod. But with 10,000,000 brands of ABS and ASA out there, some may just be more stubborn than others.
 
 # Notes and Supplemental Data
