@@ -11,7 +11,7 @@ Jump to:
 This mod converts every panel on the Voron to a well sealed, removable magnetic doors with all-magnetic >180° (Closer to 200°) degree hinges. All panels function as doors and are removable with no hardware what so ever, just yank 'em out!
 
 ### Quick Youtube Demo:
-[![Demo Video](Images/Video-Thumb.png)](https://youtu.be/oXtChmSKKyE)
+[![Demo Video](Images/videoThumb.png)](https://youtu.be/oXtChmSKKyE)
 
 There are 2 variants of this panel mod:
 
@@ -85,7 +85,7 @@ Exactly the same configuration as standard Voron panels, except with all the ben
 
 Print one magnet_test.stl for every filament you plan to use for this mod, some filaments behave surprisingly differently!
 
-![Magnet Test](Images/Magnet-Test.png)
+![Magnet Test](Images/magnetTest.png)
 
 You are looking for a "snug" but not "tight" fit. You should be able to start the magnets with your hands and some pressure. You **do not** need to seat them all the way down at this step. The fastest way to find the correct holes is to start by inserting a magnet into the *largest* bottom hole (L), if the magnet falls in or can be yanked back out with another magnet, try the next smallest hole. The goal is to find one you can shove part of the way in with your hands and can't be yanked back out with another magnet.
 
@@ -143,18 +143,18 @@ First step is to insert all of the magnets into all of the STLs. It's very impor
 
 I've found the best method to insert the magnets is to hand push in the magnet until it's halfway in, and then use the head of an M3x14mm screw and attach it to the magnet, then lightly tap the magnet down in place with a hammer. It makes assembly go much faster. Just be sure to use a flat surface so you don't blow the magnet straight through the hole!
 
-![Magnet Test](Images/Magnets-1.png)
-![Magnet Test](Images/Magnets-2.png)
+![Magnet Test](Images/magnets1.png)
+![Magnet Test](Images/magnets2.png)
 
 ## Hardware
 You may preload all the hardware **EXCEPT FOR** the T-nuts noted in red. These must be loaded into the extrusions and slid into place **after** installation of the door hinge.
 
-![Magnet Test](Images/Hardware.png)
+![Magnet Test](Images/hardware.png)
 
 ## VHB Tape
 Don't skimp on the VHB tape! When installed, press down extremely hard on the panels. VHB tape sticks better over time, but initially is can be somewhat weak, and the larger panels may try to pop off the first couple days.
 
-![Magnet Test](Images/VHB-Tape.png)
+![Magnet Test](Images/VHBTape.png)
 
 
 # Installation:
@@ -164,39 +164,70 @@ Don't skimp on the VHB tape! When installed, press down extremely hard on the pa
 ## Provided is a direct link to the STL Placement Reference both on Tinkercad and GitHub. Both will show you the location of every STL in 3d space. *Note its not remotely to scale, that's why everything looks ridiculously cramped.*
 ### View the Full Model STL Placement Reference on:
 ### [Fully Editable and Color Coded, Tinkercad](https://www.tinkercad.com/things/gM3WwlMIWih-emp-stl-placement-reference)
-### [Uneditable and Grey Scale, GitHub](Images/placement_reference.stl)
+### [Uneditable and Grey Scale, GitHub](Images/placementReference.stl)
 
-![Tinkercad Reference](Images/Frame-STL-Placement-Reference.png)
+![Tinkercad Reference](Images/frameSTLPlacementReference.png)
 
 Refer to the following images or the Tinkercad link above for clip placement on the various panels. Apply significant pressure to the tape to ensure it sticks. In my experience, the VHB tape may be a bit weak the first few days but should all hold together just fine. I like to occasionally revisit this and push the clips down a bit more as I work through the project just to make sure they're staying down.
 
-From here on out, all stl's names will be shortened for brevity.
-
-Left and Right Panels:
-- *corner_panel* are placed in the 4 corners of the panel.
-- *side_panel* are placed on the top, bottom and front sides of the panel, in the center.
-- *hinge_panel* are placed 10cm from the edge of the panel on the back side. 
-
-Left and Right Frames: (Same as above, just on the frames.)
-- *corner_frame* are placed in the 4 corners of the panel.
-- *side_frame* are placed on the top, bottom and front sides of the panel, in the center.
-- *hinge_frame* are placed 10cm from the edge of the panel on the back side. 
-
-Top Panel:
-- corner_panel.stl are placed in the 4 corners of the panel.
-- side_panel.stl are placed on 3 of the 4 sides in the center.
-- hinge_panel.stl are placed 10cm from the edge of the panel on one side. 
-
-**Images here**
+From here on out, all stl names will be shortened for brevity.
 
 When installing the frame STLs, install them loose initially (just tight enough they don't fall out), you'll use the panels themselves to align the frame STLs in a future step. Place them in the same locations as the panel clips, just on the frame.
 
-- corner_panel.stl are placed in the 4 corners.
-- side_panel.stl are placed on 3 of the 4 sides in the center.
-- hinge_panel.stl are placed 10cm from the edge of the panel on one side. 
+**All** Hinges are placed approximately 10cm from the edge of their respective panels.
 
-Refer to the following images for frame placement on the various extrusions:
-**Images here**
+![10cm Hinge Spacing](Images/10cmHingeSpacing.png)
+
+### Left and Right Side Panels:
+- *corner_panel* are placed in the 4 corners of the panel.
+- *side_panel* are placed on the top, bottom and front sides of the panel, in the center.
+- *hinge_panel* are placed 10cm from the edge of the panel on the back side. 
+- Loosely install corner_frame, side_frame and hinge_frame STL files in the same locations as above, but on the extrusions the panel will attach to.
+
+![Side Panels Inner](Images/sidePanelsInner.png)
+![Side Panels Outer](Images/sidePanelsOuter.png)
+
+### Top Panel:
+- corner_panel.stl are placed in the 4 corners of the panel.
+- side_panel.stl are placed on the top, bottom and front sides in the center.
+- hinge_panel.stl are placed 10cm from the edge of the panel on the back side. 
+- Loosely install corner_frame, side_frame and hinge_frame STL files in the same locations as above, but on the extrusions the panel will attach to.
+
+![Top Panel Inner](Images/topPanelInner.png)
+![Top Panel Outer](Images/topPanelOuter.png)
+
+### Back Panel:
+- corner_panel.stl are placed in the 4 corners.
+- side_panel.stl are placed on left and right sides in the center.
+- hinge_panel.stl are placed 10cm from the edge of the panel on the bottom side. 
+- Loosely install corner_frame, side_frame and **hinge_frame_bottom** STL files in the same locations as above, but on the extrusions the panel will attach to.
+
+![Back Panel Inner](Images/backPanelInner.png)
+![Back Panel Outer](Images/backPanelOuter.png)
+
+### Front Doors (Left):
+- corner_panel.stl are placed in the left 2 corners.
+- hinge_panel.stl are placed 10cm from the edge of the panel on the left side. 
+- door_clip_1.stl is placed on the bottom right corner.
+- door_clip_2.stl is placed on the top right corner.
+
+### Front Doors (Right):
+- corner_panel.stl are placed in the right 2 corners.
+- hinge_panel.stl are placed 10cm from the edge of the panel on the right side. 
+- door_clip_1.stl is placed on the top left corner.
+- door_clip_2.stl is placed on the bottom left corner.
+
+- Loosely install corner_frame, side_frame (for door_clip_1 and 2) and hinge_frame STL files in the same locations as above for both doors, but on the extrusions the doors will attach to.
+
+![Front Doors Inner](Images/frontDoorsInner.png)
+![Front Doors Outer](Images/frontDoorsOuter.png)
+
+
+
+
+
+
+
 
 Slide/place the side_frame.stl and hinge_frame.stl parts under their respective _panel. You may have to loosen them a tad if you used hammerheads.
 
