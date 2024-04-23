@@ -79,11 +79,11 @@ Exactly the same configuration as standard Voron panels, except with all the ben
   - [U.S. Source: Lowes](https://www.lowes.com/pd/M-D-17-ft-x-11-32-in-Black-Rubber-Foam-Window-Weatherstrip/1038915) - 2 Packages.
   
 ## Per Panel BOM (Ref. Full Part Descriptions Above):
-- *Front Door* (Left and Right, **Config as Door**)
+- *Front Door* (Left and Right, **As Door**)
   - **32 Magnets, 12 Screws, 8 Hammerhead, 4 T-nuts/Springnuts**
-- *Side and Top Panels* (**Config as Door**)
+- *Side and Top Panels* (**As Door**)
   - **44 Magnets, 17 Screws, 13 Hammerheads, 4 T-nuts/Springnuts**
-- *Side and Top Panels* (**Config as Panel**)
+- *Side and Top Panels* (**As Panel**)
   - **32 Magnets, 12 Screws, 12 Hammerheads**
 - *Back Panel* (**As Door**)
   - **40 Magnets, 16 Screws, 12 Hammerheads, 4 T-nuts/Springnuts**
@@ -188,7 +188,8 @@ Don't skimp on the VHB tape! When installed, press down hard on the tape to get 
 
 # Installation:
 
-## **ONLY REFERENCES "ALL-DOORS" CURRENTLY. **
+## **INSTALL GUIDE ASSUMES "ALL-DOORS" CONFIGURATION. **
+### If you're doing the "Voron Spec" configuration the install guide still applies, **but** you need to supplement the 2x hinges on each panel with 1x side clips, effectively making all 4 sides of the panel symmetrical. All other steps are identical.
 
 ## Provided is a direct link to the STL Placement Reference both on Tinkercad and GitHub. Both will show you the location of every STL in 3d space. *Note its not remotely to scale, that's why everything looks ridiculously cramped.*
 ### View the Full Model STL Placement Reference on:
