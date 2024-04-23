@@ -30,7 +30,7 @@ This mod converts every panel on the Voron to a well sealed, removable magnetic 
 - Early days of the install you may get annoyed at panel clips popping off the VHB tape. Although this is the same problem the standard Voron doors have.
 - Easy install, but tedious due to so many little parts.
 - The Weather seal used is a bit expensive, and not a standard Voron BOM part. (See [BOM and Tool List](#boms-and-tool-lists) for sources)
-- Pulling the panels 6mm out from the extrusions is also a con. There's a possibility this may interfere with some mods that expect the standard Voron doors.
+- Pulling the panels 6mm out from the extrusions has a possibility of interfering with some mods that expect the standard Voron doors.
 
 There are 2 variants of this panel mod:
 
