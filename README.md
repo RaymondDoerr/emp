@@ -298,6 +298,7 @@ Be gentle with the hinges for a few days while the VHB tape settles (ie; don't l
 - You can also remove almost all the side_panel/frame STLs from the entire build, although you may want to double-up on magnets in the corner_panel STLs if it makes the panel too weak. 
 
 ### Mod Compatibility
+- [The raw STL files on Tinkercad.](https://www.tinkercad.com/things/bFb7dxLxUFV-excessively-magnetic-panel-mod-parts)
 - This has not been tested with the [Clicky-Clack Fridge Door Mod](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door), but should theoretically work if you omit the side clips interfering with the Fridge Mod's hinge. There is a possibility it may rub against the side panel. Please let me know if this is an issue!
 - This should work with just about any mod that doesn't have an issue with the panels being pushed outwards about 6-8mm from the frame.
 
