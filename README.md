@@ -13,6 +13,9 @@ This mod converts every panel on the Voron to a well sealed, removable magnetic 
 ### Quick Youtube Demo:
 [![Demo Video](Images/videoThumb.png)](https://youtu.be/oXtChmSKKyE)
 
+### Real Life Install Photos
+[![Panels On](Images/panelsOnThumb.jpg)](Images/panelsOn.jpg) [![Panels Open](Images/panelsOpenThumb.jpg)](Images/panelsOpen.jpg) [![Panels Off](Images/panelsOffThumb.jpg)](Images/panelsOff.jpg)
+
 ### Pros:
 - You can remove and reinstall all the panels in under a minute.
 - Converts all 5 panels into doors with magnetic "no hardware" hinges.
@@ -91,23 +94,23 @@ Exactly the same configuration as standard Voron panels, except with all the ben
   - **28 Magnets, 12 Screws, 12 Hammerheads**
   
 ## Per STL BOM (Ref. Full Part Descriptions Above):
-- *[a]hinge_frame_<SIZE>.stl*
+- *[a]hinge_frame_SIZE.stl*
   - **4 Magnets, 3 Screws, 1 Hammerhead, 2 T-nuts/Springnuts**
-- *[a]hinge_frame_bottom_<SIZE>.stl*
+- *[a]hinge_frame_bottom_SIZE.stl*
   - **4 Magnets, 2 Screws, 2 Hammerheads**
-- *[a]corner_frame_<SIZE>.stl*
+- *[a]corner_frame_SIZE.stl*
   - **2 Magnets, 2 Screws, 2 Hammerheads**
-- *[a]side_frame_<SIZE>.stl*
+- *[a]side_frame_SIZE.stl*
   - **2 Magnets, 1 Screw, 1 Hammerhead**
-- *hinge_panel_<SIZE>.stl*
+- *hinge_panel_SIZE.stl*
   - **4 Magnets, 40mm VHB tape**
-- *door_clip_1_<SIZE>.stl*
+- *door_clip_1_SIZE.stl*
   - **2 Magnets, 20mm VHB tape**
-- *door_clip_2_<SIZE>.stl*
+- *door_clip_2_SIZE.stl*
   - **2 Magnets, 20mm VHB tape**
-- *corner_panel_<SIZE>.stl*
+- *corner_panel_SIZE.stl*
   - **2 Magnets, 60mm VHB tape**
-- *side_panel_<SIZE>.stl*
+- *side_panel_SIZE.stl*
   - **2 Magnets, 20mm VHB tape**
   
 # The Magnet Tolerance Test:
@@ -139,6 +142,8 @@ The sizes of the holes are as follows:
 After selecting the hole size, now it's time to print the STLs! Select the set of parts that match the hole size you've selected. The top/vertical holes are for the hinges, the horizontal holes were for all other parts.
 
 All prints are designed to print to Voron Spec profiles. If you have warping issues, these parts need very little cooling, all of mine were printed with only about a 5% fan speed on a Stealthburner/G2E/Revo setup. I also ran some experiments and found all the parts can be printed with no cooling what so ever, but YMMV.
+
+All panel STLs have an optional *with_clip* variant you can print, that will add a small lip on the edge of the model making it a bit easier to catch and open the door with your fingers. If you decide to use these, you only need them on the corners you're expecting to open the door from.
 
 ## For "All Doors":
 ### Print with top/vertical hole size:
@@ -305,8 +310,3 @@ Be gentle with the hinges for a few days while the VHB tape settles (ie; don't l
 ### Coming Soon (Before full release)
 - A magnetic door handle of some sort.
 - Small magnetic arms to prop doors open.
-
-# Real Life Install Photos
-![Panels On](Images/panelsOn.jpg)
-![Panels Open](Images/panelsOpen.jpg)
-![Panels Off](Images/panelsOff.jpg)
