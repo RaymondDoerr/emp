@@ -295,9 +295,10 @@ Be gentle with the hinges for a few days while the VHB tape settles (ie; don't l
 
 # Notes and Supplemental Data
 ### Tips
-- All _panel STL files, except the hinges, can have an additional magnet added if you want to go overkill with magnet strength. Note that this will add an enormous amount of extra magnets (Roughly 25-30% more) to the BOM.
+- All STL files, except the hinges, can have an additional magnet added if you want to go overkill with magnet strength or have tons of weaker magnets. Note that this will add an enormous amount of extra magnets (Roughly +70-80% more) to the BOM, and if you use n52s it'll be *ridiculously* strong.
 - You can rearrange everything, adding or moving hinges and clips where you desire. 
 - If you're having issues with the front doors closing (ie; hitting eachother) check to make sure clip_1 and _2 are not overlapping the edge of the panel. Also sometimes just fiddling with the hinges can improve fit and finish.
+- If you're using hammerheads for the first time, make sure they actually are holding your part in. They can easily miss the extrusions and just tighten into the plastic.
 - The corner_panel/frame STLs on the front doors are technically optional. They're more for ascetics than functionality.
 - You can remove 1 magnet from each door_clip_1 and door_clip_2 if you find the front door too strong to open. (Or just use weaker magnets if you have them.)
 - You can also remove almost all the side_panel/frame STLs from the entire build, although you may want to double-up on magnets in the corner_panel STLs if it makes the panel too weak. 
